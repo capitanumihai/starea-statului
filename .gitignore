@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+data/*.sqlite*
+data/*.log
+.cache/
+docs/qa/*.png
+docs/qa/*.webp
+*.tsbuildinfo
+apps/web/public/starea-statului-source.zip
+apps/web/public/starea-statului-source.sha256
+/public/assets/

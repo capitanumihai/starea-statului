@@ -1,0 +1,3416 @@
+{
+  "source": "https://serviciipublice.gov.ro/institutii",
+  "fetchedAt": "2026-10-17T08:09:41.526105+00:00",
+  "count": 568,
+  "note": "Sursă de cercetare, nu import automat în catalogul public. Include instituții din afara scopului și poate conține denumiri istorice. Validarea rămâne necesară.",
+  "institutions": [
+    {
+      "id": "2612",
+      "name": "Academia de Politie „Alexandru Ioan Cuza”",
+      "source": "https://serviciipublice.gov.ro/institutii/2612",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2356",
+      "name": "Academia de Stiinte Agricole si Silvice",
+      "source": "https://serviciipublice.gov.ro/institutii/2356",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2470",
+      "name": "Academia de Studii Economice din Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2470",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2728",
+      "name": "Academia Forțelor Aeriene „Henri Coandă” din Braşov",
+      "source": "https://serviciipublice.gov.ro/institutii/2728",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2406",
+      "name": "Academia Forțelor Terestre \"Nicolae Bălcescu\" din Sibiu",
+      "source": "https://serviciipublice.gov.ro/institutii/2406",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2729",
+      "name": "Academia Navală \"Mircea cel Bătrân\"",
+      "source": "https://serviciipublice.gov.ro/institutii/2729",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2730",
+      "name": "Academia Tehnică Militară „Ferdinand I”",
+      "source": "https://serviciipublice.gov.ro/institutii/2730",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2487",
+      "name": "Administratia Fondului Cultural National",
+      "source": "https://serviciipublice.gov.ro/institutii/2487",
+      "reportedParent": "Subordonată Ministerul Culturii"
+    },
+    {
+      "id": "2832",
+      "name": "Administratia Fondului pentru Mediu",
+      "source": "https://serviciipublice.gov.ro/institutii/2832",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2441",
+      "name": "Administratia Nationala ”Apele Romane”, Administratiile Bazinale de Apa, Sistemele de Gospodarire a Apelor",
+      "source": "https://serviciipublice.gov.ro/institutii/2441",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2440",
+      "name": "Administratia Nationala de Meteorologie",
+      "source": "https://serviciipublice.gov.ro/institutii/2440",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2438",
+      "name": "Administratia Rezervatiei Biosferei Delta Dunarii",
+      "source": "https://serviciipublice.gov.ro/institutii/2438",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2387",
+      "name": "Aeroclubul Romaniei",
+      "source": "https://serviciipublice.gov.ro/institutii/2387",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2413",
+      "name": "Agentia de Credite si Burse de Studii",
+      "source": "https://serviciipublice.gov.ro/institutii/2413",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2408",
+      "name": "Agenția de informații geospațiale a apărării",
+      "source": "https://serviciipublice.gov.ro/institutii/2408",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2667",
+      "name": "Agenţia de Investigare Feroviară Română - AGIFER",
+      "source": "https://serviciipublice.gov.ro/institutii/2667",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2348",
+      "name": "Agentia de Plati si Interventie pentru Agricultura",
+      "source": "https://serviciipublice.gov.ro/institutii/2348",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2829",
+      "name": "Agentia Domeniile Statului",
+      "source": "https://serviciipublice.gov.ro/institutii/2829",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2727",
+      "name": "Agenția Județeană pentru Protecția Mediului",
+      "source": "https://serviciipublice.gov.ro/institutii/2727",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2481",
+      "name": "Agenția Națională a Medicamentului și a Dispozitivelor Medicale din România",
+      "source": "https://serviciipublice.gov.ro/institutii/2481",
+      "reportedParent": "Subordonată Ministerul Sanatatii"
+    },
+    {
+      "id": "2725",
+      "name": "Agenția Națională Anti-Doping",
+      "source": "https://serviciipublice.gov.ro/institutii/2725",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2614",
+      "name": "Agenția Națională Antidrog",
+      "source": "https://serviciipublice.gov.ro/institutii/2614",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2345",
+      "name": "Agentia Nationala a Zonei Montane",
+      "source": "https://serviciipublice.gov.ro/institutii/2345",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2781",
+      "name": "Agentia Nationala de Administrare Fiscala",
+      "source": "https://serviciipublice.gov.ro/institutii/2781",
+      "reportedParent": "Subordonată Ministerul Finantelor"
+    },
+    {
+      "id": "2360",
+      "name": "Agentia Nationala de Cadastru si Publicitate Imobiliara",
+      "source": "https://serviciipublice.gov.ro/institutii/2360",
+      "reportedParent": "Subordonată Ministerul Dezvoltării, Lucrărilor Publice și Administrației"
+    },
+    {
+      "id": "2790",
+      "name": "Agentia Nationala de Cadastru si Publicitate Imobiliara - Centru Național de Cartografie",
+      "source": "https://serviciipublice.gov.ro/institutii/2790",
+      "reportedParent": "Subordonată Ministerul Dezvoltării, Lucrărilor Publice și Administrației"
+    },
+    {
+      "id": "2353",
+      "name": "Agentia Nationala de Imbunatatiri Funciare",
+      "source": "https://serviciipublice.gov.ro/institutii/2353",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2297",
+      "name": "Agentia Nationala de presa AGERPRES",
+      "source": "https://serviciipublice.gov.ro/institutii/2297",
+      "reportedParent": null
+    },
+    {
+      "id": "2482",
+      "name": "Agenția Națională de Transplant",
+      "source": "https://serviciipublice.gov.ro/institutii/2482",
+      "reportedParent": "Subordonată Ministerul Sanatatii"
+    },
+    {
+      "id": "2570",
+      "name": "Agenția Națională pentru Achiziții Publice",
+      "source": "https://serviciipublice.gov.ro/institutii/2570",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2495",
+      "name": "Agenția Națională pentru Arii Naturale Protejate",
+      "source": "https://serviciipublice.gov.ro/institutii/2495",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2493",
+      "name": "Agenția Națională pentru Egalitatea de Șanse între Femei și Bărbați",
+      "source": "https://serviciipublice.gov.ro/institutii/2493",
+      "reportedParent": "Subordonată Ministerul Familiei, Tineretului si Egalitatii de Sanse"
+    },
+    {
+      "id": "2793",
+      "name": "Agentia Nationala pentru Locuinte",
+      "source": "https://serviciipublice.gov.ro/institutii/2793",
+      "reportedParent": "Subordonată Ministerul Dezvoltării, Lucrărilor Publice și Administrației"
+    },
+    {
+      "id": "2492",
+      "name": "Agenția Natională pentru Ocuparea Forței de Muncă",
+      "source": "https://serviciipublice.gov.ro/institutii/2492",
+      "reportedParent": "Subordonată Ministerul Muncii si Solidaritatii Sociale"
+    },
+    {
+      "id": "2352",
+      "name": "Agentia Nationala pentru Pescuit si Acvacultura",
+      "source": "https://serviciipublice.gov.ro/institutii/2352",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2489",
+      "name": "Agentia Nationala pentru Plati si Inspectie Sociala",
+      "source": "https://serviciipublice.gov.ro/institutii/2489",
+      "reportedParent": "Subordonată Ministerul Muncii si Solidaritatii Sociale"
+    },
+    {
+      "id": "2416",
+      "name": "Agentia Nationala pentru Programe Comunitare in Domeniul Educatiei si Formarii Profesionale",
+      "source": "https://serviciipublice.gov.ro/institutii/2416",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2432",
+      "name": "Agentia Nationala pentru Protectia Mediului",
+      "source": "https://serviciipublice.gov.ro/institutii/2432",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2563",
+      "name": "Agenţia Naţională pentru Romi",
+      "source": "https://serviciipublice.gov.ro/institutii/2563",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2310",
+      "name": "Agentia Nationala pentru Sport",
+      "source": "https://serviciipublice.gov.ro/institutii/2310",
+      "reportedParent": null
+    },
+    {
+      "id": "2357",
+      "name": "Agentia Nationala pentru Zootehnie",
+      "source": "https://serviciipublice.gov.ro/institutii/2357",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2543",
+      "name": "Agenția Nucleară și pentru Deșeuri Radioactive",
+      "source": "https://serviciipublice.gov.ro/institutii/2543",
+      "reportedParent": "Subordonată Ministerul Energiei"
+    },
+    {
+      "id": "2488",
+      "name": "Agenția pentru Finanțarea Investițiilor Rurale",
+      "source": "https://serviciipublice.gov.ro/institutii/2488",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2771",
+      "name": "Agentia pentru Protectia Mediului Alba",
+      "source": "https://serviciipublice.gov.ro/institutii/2771",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2777",
+      "name": "Agentia pentru Protectia Mediului Arad",
+      "source": "https://serviciipublice.gov.ro/institutii/2777",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2764",
+      "name": "Agentia pentru Protectia Mediului Arges",
+      "source": "https://serviciipublice.gov.ro/institutii/2764",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2448",
+      "name": "Agentia pentru Protectia Mediului Bacau",
+      "source": "https://serviciipublice.gov.ro/institutii/2448",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2778",
+      "name": "Agentia pentru Protectia Mediului Bihor",
+      "source": "https://serviciipublice.gov.ro/institutii/2778",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2761",
+      "name": "Agentia pentru Protectia Mediului Bistrita",
+      "source": "https://serviciipublice.gov.ro/institutii/2761",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2754",
+      "name": "Agentia pentru Protectia Mediului Botosani",
+      "source": "https://serviciipublice.gov.ro/institutii/2754",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2752",
+      "name": "Agentia pentru Protectia Mediului Braila",
+      "source": "https://serviciipublice.gov.ro/institutii/2752",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2762",
+      "name": "Agentia pentru Protectia Mediului Brasov",
+      "source": "https://serviciipublice.gov.ro/institutii/2762",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2779",
+      "name": "Agentia pentru Protectia Mediului Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2779",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2454",
+      "name": "Agentia pentru Protectia Mediului Buzau",
+      "source": "https://serviciipublice.gov.ro/institutii/2454",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2450",
+      "name": "Agentia pentru Protectia Mediului Calarasi",
+      "source": "https://serviciipublice.gov.ro/institutii/2450",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2775",
+      "name": "Agentia pentru Protectia Mediului Caras-Severin",
+      "source": "https://serviciipublice.gov.ro/institutii/2775",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2770",
+      "name": "Agentia pentru Protectia Mediului Cluj",
+      "source": "https://serviciipublice.gov.ro/institutii/2770",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2751",
+      "name": "Agentia pentru Protectia Mediului Constanta",
+      "source": "https://serviciipublice.gov.ro/institutii/2751",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2759",
+      "name": "Agentia pentru Protectia Mediului Covasna",
+      "source": "https://serviciipublice.gov.ro/institutii/2759",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2763",
+      "name": "Agentia pentru Protectia Mediului Dambovita",
+      "source": "https://serviciipublice.gov.ro/institutii/2763",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2773",
+      "name": "Agentia pentru Protectia Mediului Dolj",
+      "source": "https://serviciipublice.gov.ro/institutii/2773",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2753",
+      "name": "Agentia pentru Protectia Mediului Galati",
+      "source": "https://serviciipublice.gov.ro/institutii/2753",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2758",
+      "name": "Agentia pentru Protectia Mediului Giurgiu",
+      "source": "https://serviciipublice.gov.ro/institutii/2758",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2772",
+      "name": "Agentia pentru Protectia Mediului Gorj",
+      "source": "https://serviciipublice.gov.ro/institutii/2772",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2446",
+      "name": "Agentia pentru Protectia Mediului Harghita",
+      "source": "https://serviciipublice.gov.ro/institutii/2446",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2443",
+      "name": "Agentia pentru Protectia Mediului Hunedoara",
+      "source": "https://serviciipublice.gov.ro/institutii/2443",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2749",
+      "name": "Agentia pentru Protectia Mediului Ialomita",
+      "source": "https://serviciipublice.gov.ro/institutii/2749",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2451",
+      "name": "Agentia pentru Protectia Mediului Iasi",
+      "source": "https://serviciipublice.gov.ro/institutii/2451",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2757",
+      "name": "Agentia pentru Protectia Mediului Ilfov",
+      "source": "https://serviciipublice.gov.ro/institutii/2757",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2760",
+      "name": "Agentia pentru Protectia Mediului Maramures",
+      "source": "https://serviciipublice.gov.ro/institutii/2760",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2774",
+      "name": "Agentia pentru Protectia Mediului Mehedinti",
+      "source": "https://serviciipublice.gov.ro/institutii/2774",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2750",
+      "name": "Agentia pentru Protectia Mediului Mures",
+      "source": "https://serviciipublice.gov.ro/institutii/2750",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2445",
+      "name": "Agentia pentru Protectia Mediului Neamt",
+      "source": "https://serviciipublice.gov.ro/institutii/2445",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2766",
+      "name": "Agentia pentru Protectia Mediului Olt",
+      "source": "https://serviciipublice.gov.ro/institutii/2766",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2453",
+      "name": "Agentia pentru Protectia Mediului Prahova",
+      "source": "https://serviciipublice.gov.ro/institutii/2453",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2769",
+      "name": "Agentia pentru Protectia Mediului Salaj",
+      "source": "https://serviciipublice.gov.ro/institutii/2769",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2768",
+      "name": "Agentia pentru Protectia Mediului Satu Mare",
+      "source": "https://serviciipublice.gov.ro/institutii/2768",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2449",
+      "name": "Agentia pentru Protectia Mediului Sibiu",
+      "source": "https://serviciipublice.gov.ro/institutii/2449",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2755",
+      "name": "Agentia pentru Protectia Mediului Suceava",
+      "source": "https://serviciipublice.gov.ro/institutii/2755",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2765",
+      "name": "Agentia pentru Protectia Mediului Teleorman",
+      "source": "https://serviciipublice.gov.ro/institutii/2765",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2776",
+      "name": "Agentia pentru Protectia Mediului Timis",
+      "source": "https://serviciipublice.gov.ro/institutii/2776",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2447",
+      "name": "Agentia pentru Protectia Mediului Tulcea",
+      "source": "https://serviciipublice.gov.ro/institutii/2447",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2767",
+      "name": "Agentia pentru Protectia Mediului Valcea",
+      "source": "https://serviciipublice.gov.ro/institutii/2767",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2444",
+      "name": "Agentia pentru Protectia Mediului Vaslui",
+      "source": "https://serviciipublice.gov.ro/institutii/2444",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2756",
+      "name": "Agentia pentru Protectia Mediului Vrancea",
+      "source": "https://serviciipublice.gov.ro/institutii/2756",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2364",
+      "name": "Agentia Romana de Asigurare a Calitatii in Invatamantul Preuniversitar",
+      "source": "https://serviciipublice.gov.ro/institutii/2364",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2815",
+      "name": "Agenția Română pentru Investiții și Comerț Exterior",
+      "source": "https://serviciipublice.gov.ro/institutii/2815",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2528",
+      "name": "Agentia Spatiala Romana ASR Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2528",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2407",
+      "name": "Arhivele Militare Naționale Române",
+      "source": "https://serviciipublice.gov.ro/institutii/2407",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2613",
+      "name": "Arhivele Naționale",
+      "source": "https://serviciipublice.gov.ro/institutii/2613",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2538",
+      "name": "Asociația de Acreditare din România - RENAR",
+      "source": "https://serviciipublice.gov.ro/institutii/2538",
+      "reportedParent": "Subordonată Ministerul Economiei, Antreprenoriatului si Turismului"
+    },
+    {
+      "id": "2537",
+      "name": "Asociația de Standardizare din România - ASRO",
+      "source": "https://serviciipublice.gov.ro/institutii/2537",
+      "reportedParent": "Subordonată Ministerul Economiei, Antreprenoriatului si Turismului"
+    },
+    {
+      "id": "2569",
+      "name": "Autoritatea Competentă de Reglementare a Operaţiunilor Petroliere Offshore la Marea Neagră",
+      "source": "https://serviciipublice.gov.ro/institutii/2569",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2395",
+      "name": "Autoritatea de Investigatii si Analiza pentru Siguranta Aviatiei Civile (AIAS)",
+      "source": "https://serviciipublice.gov.ro/institutii/2395",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2299",
+      "name": "Autoritatea de Supraveghere Financiara",
+      "source": "https://serviciipublice.gov.ro/institutii/2299",
+      "reportedParent": null
+    },
+    {
+      "id": "2385",
+      "name": "Autoritatea Feroviara Romana",
+      "source": "https://serviciipublice.gov.ro/institutii/2385",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2565",
+      "name": "Autoritatea Naţională de Management al Calităţii în Sănătate",
+      "source": "https://serviciipublice.gov.ro/institutii/2565",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2331",
+      "name": "Autoritatea Nationala de Reglementare in Domeniul Energiei",
+      "source": "https://serviciipublice.gov.ro/institutii/2331",
+      "reportedParent": null
+    },
+    {
+      "id": "2792",
+      "name": "Autoritatea Nationala de Reglementare în Domeniul Minier, Petrolier si al Stocării Geologice a Dioxidului de Carbon",
+      "source": "https://serviciipublice.gov.ro/institutii/2792",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2362",
+      "name": "Autoritatea Nationala de Reglementare pentru Serviciile Comunitare de Utilitati Publice",
+      "source": "https://serviciipublice.gov.ro/institutii/2362",
+      "reportedParent": "Subordonată Ministerul Dezvoltării, Lucrărilor Publice și Administrației"
+    },
+    {
+      "id": "2321",
+      "name": "Autoritatea Națională de Supraveghere IA",
+      "source": "https://serviciipublice.gov.ro/institutii/2321",
+      "reportedParent": null
+    },
+    {
+      "id": "2818",
+      "name": "Autoritatea Națională de Supraveghere IA (entitate ce va trebui definită/creată)",
+      "source": "https://serviciipublice.gov.ro/institutii/2818",
+      "reportedParent": "Subordonată Autoritatea Națională de Supraveghere IA"
+    },
+    {
+      "id": "2351",
+      "name": "Autoritatea Nationala Fitosanitara",
+      "source": "https://serviciipublice.gov.ro/institutii/2351",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2302",
+      "name": "Autoritatea Nationala pentru Administrare si Reglementare in Comunicatii",
+      "source": "https://serviciipublice.gov.ro/institutii/2302",
+      "reportedParent": null
+    },
+    {
+      "id": "2358",
+      "name": "Autoritatea Nationala pentru Cetatenie",
+      "source": "https://serviciipublice.gov.ro/institutii/2358",
+      "reportedParent": "Subordonată Ministerul Justitiei"
+    },
+    {
+      "id": "2535",
+      "name": "Autoritatea Națională pentru Protecția Consumatorilor - ANPC",
+      "source": "https://serviciipublice.gov.ro/institutii/2535",
+      "reportedParent": "Subordonată Ministerul Economiei, Antreprenoriatului si Turismului"
+    },
+    {
+      "id": "2490",
+      "name": "Autoritatea Națională pentru Protecția Drepturilor Copilului și Adopție",
+      "source": "https://serviciipublice.gov.ro/institutii/2490",
+      "reportedParent": "Subordonată Ministerul Familiei, Tineretului si Egalitatii de Sanse"
+    },
+    {
+      "id": "2780",
+      "name": "Autoritatea Nationala pentru Protectia Drepturilor Persoanelor cu Dizabilitati",
+      "source": "https://serviciipublice.gov.ro/institutii/2780",
+      "reportedParent": "Subordonată Ministerul Familiei, Tineretului si Egalitatii de Sanse"
+    },
+    {
+      "id": "2572",
+      "name": "Autoritatea Naţională pentru Restituirea Proprietăţilor",
+      "source": "https://serviciipublice.gov.ro/institutii/2572",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2573",
+      "name": "Autoritatea Naţională Sanitară Veterinară şi pentru Siguranţa Alimentelor",
+      "source": "https://serviciipublice.gov.ro/institutii/2573",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2370",
+      "name": "Autoritatea Navala Romana",
+      "source": "https://serviciipublice.gov.ro/institutii/2370",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2540",
+      "name": "Autoritatea pentru Administrarea Activelor Statului - AAAS",
+      "source": "https://serviciipublice.gov.ro/institutii/2540",
+      "reportedParent": "Subordonată Ministerul Economiei, Antreprenoriatului si Turismului"
+    },
+    {
+      "id": "2346",
+      "name": "Autoritatea pentru Administrarea Sistemului National Antigrindina si de Crestere a Precipitatiilor",
+      "source": "https://serviciipublice.gov.ro/institutii/2346",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2422",
+      "name": "Autoritatea pentru Digitalizarea Romaniei",
+      "source": "https://serviciipublice.gov.ro/institutii/2422",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2332",
+      "name": "Autoritatea pentru Digitalizarea României (Radarul de Inovare)",
+      "source": "https://serviciipublice.gov.ro/institutii/2332",
+      "reportedParent": null
+    },
+    {
+      "id": "2666",
+      "name": "Autoritatea pentru Reforma Feroviară",
+      "source": "https://serviciipublice.gov.ro/institutii/2666",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2804",
+      "name": "Autoritatea Rutiera Romana",
+      "source": "https://serviciipublice.gov.ro/institutii/2804",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2817",
+      "name": "Autoritatea Vamala Romana",
+      "source": "https://serviciipublice.gov.ro/institutii/2817",
+      "reportedParent": "Subordonată Ministerul Finantelor"
+    },
+    {
+      "id": "2295",
+      "name": "Avocatul Poporului",
+      "source": "https://serviciipublice.gov.ro/institutii/2295",
+      "reportedParent": null
+    },
+    {
+      "id": "2715",
+      "name": "Baza 48 comunicații și tehnologia informației",
+      "source": "https://serviciipublice.gov.ro/institutii/2715",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2417",
+      "name": "Biblioteca Centrala Universitara (Bucuresti, Cluj-Napoca, Iasi, Timisoara)",
+      "source": "https://serviciipublice.gov.ro/institutii/2417",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2791",
+      "name": "Biblioteca Centrala Universitara Cluj",
+      "source": "https://serviciipublice.gov.ro/institutii/2791",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2830",
+      "name": "Biblioteca Militară Națională",
+      "source": "https://serviciipublice.gov.ro/institutii/2830",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2359",
+      "name": "Biblioteca Nationala a Romaniei",
+      "source": "https://serviciipublice.gov.ro/institutii/2359",
+      "reportedParent": "Subordonată Ministerul Culturii"
+    },
+    {
+      "id": "2411",
+      "name": "Biroul național de codificare",
+      "source": "https://serviciipublice.gov.ro/institutii/2411",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2533",
+      "name": "Biroul Român de Metrologie Legală - BRML",
+      "source": "https://serviciipublice.gov.ro/institutii/2533",
+      "reportedParent": "Subordonată Ministerul Economiei, Antreprenoriatului si Turismului"
+    },
+    {
+      "id": "2340",
+      "name": "Camera de Comert si Industrie a Municipiului Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2340",
+      "reportedParent": null
+    },
+    {
+      "id": "2341",
+      "name": "Camera Notarilor Publici Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2341",
+      "reportedParent": null
+    },
+    {
+      "id": "2555",
+      "name": "Cancelaria Prim-ministrului",
+      "source": "https://serviciipublice.gov.ro/institutii/2555",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2333",
+      "name": "Cancelaria Primului Ministru",
+      "source": "https://serviciipublice.gov.ro/institutii/2333",
+      "reportedParent": null
+    },
+    {
+      "id": "2477",
+      "name": "Casa Corpului Didactic",
+      "source": "https://serviciipublice.gov.ro/institutii/2477",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2632",
+      "name": "CASA DE CULTURĂ A STUDENŢILOR ALBA IULIA",
+      "source": "https://serviciipublice.gov.ro/institutii/2632",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2634",
+      "name": "CASA DE CULTURĂ A STUDENŢILOR BRAŞOV",
+      "source": "https://serviciipublice.gov.ro/institutii/2634",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2635",
+      "name": "CASA DE CULTURĂ A STUDENŢILOR BUCUREŞTI",
+      "source": "https://serviciipublice.gov.ro/institutii/2635",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2637",
+      "name": "CASA DE CULTURĂ A STUDENŢILOR CLUJ NAPOCA",
+      "source": "https://serviciipublice.gov.ro/institutii/2637",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2638",
+      "name": "CASA DE CULTURĂ A STUDENŢILOR CRAIOVA",
+      "source": "https://serviciipublice.gov.ro/institutii/2638",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2639",
+      "name": "CASA DE CULTURĂ A STUDENŢILOR GALAŢI",
+      "source": "https://serviciipublice.gov.ro/institutii/2639",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2641",
+      "name": "CASA DE CULTURĂ A STUDENŢILOR IAŞI",
+      "source": "https://serviciipublice.gov.ro/institutii/2641",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2640",
+      "name": "CASA DE CULTURĂ A STUDENŢILOR PETROŞANI",
+      "source": "https://serviciipublice.gov.ro/institutii/2640",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2633",
+      "name": "CASA DE CULTURĂ A STUDENŢILOR PITEŞTI",
+      "source": "https://serviciipublice.gov.ro/institutii/2633",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2643",
+      "name": "Casa de Cultura a Studentilor Ploiesti",
+      "source": "https://serviciipublice.gov.ro/institutii/2643",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2636",
+      "name": "CASA DE CULTURĂ A STUDENŢILOR REŞIŢA",
+      "source": "https://serviciipublice.gov.ro/institutii/2636",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2644",
+      "name": "CASA DE CULTURĂ A STUDENŢILOR SIBIU",
+      "source": "https://serviciipublice.gov.ro/institutii/2644",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2642",
+      "name": "CASA DE CULTURĂ A STUDENŢILOR TG. MUREŞ",
+      "source": "https://serviciipublice.gov.ro/institutii/2642",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2645",
+      "name": "CASA DE CULTURĂ A STUDENŢILOR TIMIŞOARA",
+      "source": "https://serviciipublice.gov.ro/institutii/2645",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2826",
+      "name": "Casa de pensii sectorială",
+      "source": "https://serviciipublice.gov.ro/institutii/2826",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2824",
+      "name": "Casa de Pensii Sectorială a Ministerului Afacerilor Interne",
+      "source": "https://serviciipublice.gov.ro/institutii/2824",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2303",
+      "name": "Casa Nationala de Asigurari de Sanatate",
+      "source": "https://serviciipublice.gov.ro/institutii/2303",
+      "reportedParent": null
+    },
+    {
+      "id": "2491",
+      "name": "Casa Națională de Pensii Publice",
+      "source": "https://serviciipublice.gov.ro/institutii/2491",
+      "reportedParent": "Subordonată Ministerul Muncii si Solidaritatii Sociale"
+    },
+    {
+      "id": "2404",
+      "name": "Centrul 346 Comunicații și Tehnologia Informației",
+      "source": "https://serviciipublice.gov.ro/institutii/2404",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2405",
+      "name": "Centrul 54 Comunicații și Tehnologia Informației / Cercul Militar Oradea",
+      "source": "https://serviciipublice.gov.ro/institutii/2405",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2412",
+      "name": "Centrul de Medicina Navala",
+      "source": "https://serviciipublice.gov.ro/institutii/2412",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2742",
+      "name": "Centrul de Perfecționare Medico-Militară",
+      "source": "https://serviciipublice.gov.ro/institutii/2742",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2536",
+      "name": "Centrul de Pregătire pentru Personalul din Industrie - CPPI",
+      "source": "https://serviciipublice.gov.ro/institutii/2536",
+      "reportedParent": "Subordonată Ministerul Economiei, Antreprenoriatului si Turismului"
+    },
+    {
+      "id": "2710",
+      "name": "Centrul de Resurse Umane în Sănătate Publică",
+      "source": "https://serviciipublice.gov.ro/institutii/2710",
+      "reportedParent": "Subordonată Ministerul Sanatatii"
+    },
+    {
+      "id": "2410",
+      "name": "Centrul de Scafandri UM 02145",
+      "source": "https://serviciipublice.gov.ro/institutii/2410",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2384",
+      "name": "Centrul de Transfuzie Sanguină al M.Ap.N.",
+      "source": "https://serviciipublice.gov.ro/institutii/2384",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2476",
+      "name": "Centrul Judetean pentru Resurse si Asistenta Educationala",
+      "source": "https://serviciipublice.gov.ro/institutii/2476",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2741",
+      "name": "Centrul Medical de Diagnostic şi Tratament Ambulatoriu „Academician Ştefan Milcu”",
+      "source": "https://serviciipublice.gov.ro/institutii/2741",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2484",
+      "name": "Centrul National al Cinematografiei",
+      "source": "https://serviciipublice.gov.ro/institutii/2484",
+      "reportedParent": "Subordonată Ministerul Culturii"
+    },
+    {
+      "id": "2390",
+      "name": "Centrul National de Calificare si Instruire Feroviara - CENAFER",
+      "source": "https://serviciipublice.gov.ro/institutii/2390",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2469",
+      "name": "Centrul National de Dezvoltare a Invatamantului Profesional si Tehnic",
+      "source": "https://serviciipublice.gov.ro/institutii/2469",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2649",
+      "name": "Centrul Național de Formare și Perfecționare a Antrenorilor",
+      "source": "https://serviciipublice.gov.ro/institutii/2649",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2542",
+      "name": "Centrul Național de Management al Apei Grele",
+      "source": "https://serviciipublice.gov.ro/institutii/2542",
+      "reportedParent": "Subordonată Ministerul Energiei"
+    },
+    {
+      "id": "2365",
+      "name": "Centrul National de Recunoastere si Echivalare a Diplomelor",
+      "source": "https://serviciipublice.gov.ro/institutii/2365",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2713",
+      "name": "Centrul National Militar de Comandă - nucleu",
+      "source": "https://serviciipublice.gov.ro/institutii/2713",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2611",
+      "name": "Centrul Național SIS",
+      "source": "https://serviciipublice.gov.ro/institutii/2611",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2467",
+      "name": "Centrul pentru Formarea Continua in Limba Germana",
+      "source": "https://serviciipublice.gov.ro/institutii/2467",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2664",
+      "name": "Centrul Român pentru Pregătirea și Perfecționarea Personalului din Transporturi Navale - CERONAV",
+      "source": "https://serviciipublice.gov.ro/institutii/2664",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2746",
+      "name": "Cercul Militar Național",
+      "source": "https://serviciipublice.gov.ro/institutii/2746",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2694",
+      "name": "Club Atletic Roman",
+      "source": "https://serviciipublice.gov.ro/institutii/2694",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2709",
+      "name": "Club Sportiv Municipal Drobeta Turnu-Severin",
+      "source": "https://serviciipublice.gov.ro/institutii/2709",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2675",
+      "name": "Clubul Central de Şah Bucureşti",
+      "source": "https://serviciipublice.gov.ro/institutii/2675",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2835",
+      "name": "Clubul Sportiv al Armatei ”Steaua Bucuresti”",
+      "source": "https://serviciipublice.gov.ro/institutii/2835",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2658",
+      "name": "Clubul Sportiv Botoşani",
+      "source": "https://serviciipublice.gov.ro/institutii/2658",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2693",
+      "name": "Clubul Sportiv Ceahlăul Piatra Neamţ",
+      "source": "https://serviciipublice.gov.ro/institutii/2693",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2706",
+      "name": "Clubul Sportiv Chimia Râmnicu Vâlcea",
+      "source": "https://serviciipublice.gov.ro/institutii/2706",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2656",
+      "name": "Clubul Sportiv Crişul Oradea",
+      "source": "https://serviciipublice.gov.ro/institutii/2656",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2807",
+      "name": "Clubul Sportiv „Dinamo” Bucureşti",
+      "source": "https://serviciipublice.gov.ro/institutii/2807",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2681",
+      "name": "Clubul Sportiv Farul Constanţa",
+      "source": "https://serviciipublice.gov.ro/institutii/2681",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2651",
+      "name": "Clubul Sportiv Municipal Arad",
+      "source": "https://serviciipublice.gov.ro/institutii/2651",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2691",
+      "name": "Clubul Sportiv Municipal Baia Mare",
+      "source": "https://serviciipublice.gov.ro/institutii/2691",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2657",
+      "name": "Clubul Sportiv Municipal Bistriţa",
+      "source": "https://serviciipublice.gov.ro/institutii/2657",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2659",
+      "name": "Clubul Sportiv Municipal Brăila",
+      "source": "https://serviciipublice.gov.ro/institutii/2659",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2660",
+      "name": "Clubul Sportiv Municipal Braşov",
+      "source": "https://serviciipublice.gov.ro/institutii/2660",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2677",
+      "name": "Clubul Sportiv Municipal Buzău",
+      "source": "https://serviciipublice.gov.ro/institutii/2677",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2678",
+      "name": "Clubul Sportiv Municipal Călăraşi",
+      "source": "https://serviciipublice.gov.ro/institutii/2678",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2680",
+      "name": "Clubul Sportiv Municipal Cluj-Napoca",
+      "source": "https://serviciipublice.gov.ro/institutii/2680",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2684",
+      "name": "Clubul Sportiv Municipal Craiova",
+      "source": "https://serviciipublice.gov.ro/institutii/2684",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2705",
+      "name": "Clubul Sportiv Municipal Danubiana Tulcea",
+      "source": "https://serviciipublice.gov.ro/institutii/2705",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2689",
+      "name": "Clubul Sportiv Municipal Deva",
+      "source": "https://serviciipublice.gov.ro/institutii/2689",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2685",
+      "name": "Clubul Sportiv Municipal Dunărea Galaţi",
+      "source": "https://serviciipublice.gov.ro/institutii/2685",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2686",
+      "name": "Clubul Sportiv Municipal Giurgiu",
+      "source": "https://serviciipublice.gov.ro/institutii/2686",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2690",
+      "name": "Clubul Sportiv Municipal Iaşi",
+      "source": "https://serviciipublice.gov.ro/institutii/2690",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2654",
+      "name": "Clubul Sportiv Municipal Oneşti",
+      "source": "https://serviciipublice.gov.ro/institutii/2654",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2653",
+      "name": "Clubul Sportiv Municipal Piteşti",
+      "source": "https://serviciipublice.gov.ro/institutii/2653",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2679",
+      "name": "Clubul Sportiv Municipal Reşiţa",
+      "source": "https://serviciipublice.gov.ro/institutii/2679",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2682",
+      "name": "Clubul Sportiv Municipal Sfântu Gheorghe",
+      "source": "https://serviciipublice.gov.ro/institutii/2682",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2699",
+      "name": "Clubul Sportiv Municipal Sibiu",
+      "source": "https://serviciipublice.gov.ro/institutii/2699",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2700",
+      "name": "Clubul Sportiv Municipal Suceava",
+      "source": "https://serviciipublice.gov.ro/institutii/2700",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2704",
+      "name": "Clubul Sportiv Municipal Timişoara",
+      "source": "https://serviciipublice.gov.ro/institutii/2704",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2697",
+      "name": "Clubul Sportiv Municipal Zalău",
+      "source": "https://serviciipublice.gov.ro/institutii/2697",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2692",
+      "name": "Clubul Sportiv Mureşul Târgu Mureş",
+      "source": "https://serviciipublice.gov.ro/institutii/2692",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2673",
+      "name": "Clubul Sportiv Olimpia Bucureşti",
+      "source": "https://serviciipublice.gov.ro/institutii/2673",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2696",
+      "name": "Clubul Sportiv Orăşenesc Sinaia",
+      "source": "https://serviciipublice.gov.ro/institutii/2696",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2687",
+      "name": "Clubul Sportiv Pandurii Târgu Jiu",
+      "source": "https://serviciipublice.gov.ro/institutii/2687",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2695",
+      "name": "Clubul Sportiv Petrolul Ploieşti",
+      "source": "https://serviciipublice.gov.ro/institutii/2695",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2698",
+      "name": "Clubul Sportiv Satu Mare",
+      "source": "https://serviciipublice.gov.ro/institutii/2698",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2674",
+      "name": "Clubul Sportiv Scoalar \"Triumf\" Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2674",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2683",
+      "name": "Clubul Sportiv Târgoviște",
+      "source": "https://serviciipublice.gov.ro/institutii/2683",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2703",
+      "name": "Clubul Sportiv Teleorman Alexandria",
+      "source": "https://serviciipublice.gov.ro/institutii/2703",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2650",
+      "name": "Clubul Sportiv Unirea Alba-Iulia",
+      "source": "https://serviciipublice.gov.ro/institutii/2650",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2708",
+      "name": "Clubul Sportiv Unirea Focşani",
+      "source": "https://serviciipublice.gov.ro/institutii/2708",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2707",
+      "name": "Clubul Sportiv Viitorul Vaslui",
+      "source": "https://serviciipublice.gov.ro/institutii/2707",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2702",
+      "name": "Clubul Sporturilor de Iarnă Vatra Dornei",
+      "source": "https://serviciipublice.gov.ro/institutii/2702",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2676",
+      "name": "Clubul Sporturilor Tehnico Aplicative Bucureşti",
+      "source": "https://serviciipublice.gov.ro/institutii/2676",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2701",
+      "name": "Clubul Sporturilor Tehnico Aplicative Suceava",
+      "source": "https://serviciipublice.gov.ro/institutii/2701",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2475",
+      "name": "Cluburi sportive si cluburi ale copiilor",
+      "source": "https://serviciipublice.gov.ro/institutii/2475",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2740",
+      "name": "Colegiul Național Militar ,,Alexandru Ioan Cuza”",
+      "source": "https://serviciipublice.gov.ro/institutii/2740",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2736",
+      "name": "Colegiul Național Militar „Dimitrie Cantemir”",
+      "source": "https://serviciipublice.gov.ro/institutii/2736",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2737",
+      "name": "Colegiul Național Militar \"Mihai Viteazul\"",
+      "source": "https://serviciipublice.gov.ro/institutii/2737",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2738",
+      "name": "Colegiul Național Militar „Ștefan cel Mare”",
+      "source": "https://serviciipublice.gov.ro/institutii/2738",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2739",
+      "name": "Colegiul Național Militar „Tudor Vladimirescu”",
+      "source": "https://serviciipublice.gov.ro/institutii/2739",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2711",
+      "name": "Comandamentul comunicatiilor si informaticii",
+      "source": "https://serviciipublice.gov.ro/institutii/2711",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2553",
+      "name": "Comisia Națională de Strategie și Prognoză",
+      "source": "https://serviciipublice.gov.ro/institutii/2553",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2564",
+      "name": "Comisia Naţională pentru Controlul Activităţilor Nucleare",
+      "source": "https://serviciipublice.gov.ro/institutii/2564",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2671",
+      "name": "Compania Națională \"Administrația Porturilor Dunării Maritime\" S.A. Galați",
+      "source": "https://serviciipublice.gov.ro/institutii/2671",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2399",
+      "name": "Compania Nationala Administratia Porturilor Maritime SA Constanta",
+      "source": "https://serviciipublice.gov.ro/institutii/2399",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2372",
+      "name": "Compania Nationala Aeroporturi Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2372",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2366",
+      "name": "Compania Nationala de Administrare a Infrastructurii Rutiere",
+      "source": "https://serviciipublice.gov.ro/institutii/2366",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2396",
+      "name": "Compania Nationala de Cai Ferate",
+      "source": "https://serviciipublice.gov.ro/institutii/2396",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2529",
+      "name": "Compania Nationala Posta Romana S.A.",
+      "source": "https://serviciipublice.gov.ro/institutii/2529",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2646",
+      "name": "Complexul Cultural Sportiv Studențesc Tei",
+      "source": "https://serviciipublice.gov.ro/institutii/2646",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2622",
+      "name": "Complexul Sportiv Naţional Bascov",
+      "source": "https://serviciipublice.gov.ro/institutii/2622",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2626",
+      "name": "Complexul Sportiv Naţional Izvorul Mureşului",
+      "source": "https://serviciipublice.gov.ro/institutii/2626",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2631",
+      "name": "Complexul Sportiv Național \"Lascăr Pană\"",
+      "source": "https://serviciipublice.gov.ro/institutii/2631",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2624",
+      "name": "Complexul Sportiv Naţional \"Lia Manoliu\" Bucureşti",
+      "source": "https://serviciipublice.gov.ro/institutii/2624",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2627",
+      "name": "Complexul Sportiv Naţional \"Nicolae Navasart\" Snagov",
+      "source": "https://serviciipublice.gov.ro/institutii/2627",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2629",
+      "name": "Complexul Sportiv Naţional Orşova",
+      "source": "https://serviciipublice.gov.ro/institutii/2629",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2630",
+      "name": "Complexul Sportiv Naţional Piatra Arsă",
+      "source": "https://serviciipublice.gov.ro/institutii/2630",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2623",
+      "name": "Complexul Sportiv Naţional Poiana Braşov",
+      "source": "https://serviciipublice.gov.ro/institutii/2623",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2625",
+      "name": "Complexul Sportiv Naţional Sala Polivalentă Bucureşti",
+      "source": "https://serviciipublice.gov.ro/institutii/2625",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2628",
+      "name": "Complexul Sportiv Naţional Snagov",
+      "source": "https://serviciipublice.gov.ro/institutii/2628",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2307",
+      "name": "Consiliul Concurentei",
+      "source": "https://serviciipublice.gov.ro/institutii/2307",
+      "reportedParent": null
+    },
+    {
+      "id": "2296",
+      "name": "Consiliul Legislativ",
+      "source": "https://serviciipublice.gov.ro/institutii/2296",
+      "reportedParent": null
+    },
+    {
+      "id": "2304",
+      "name": "Consiliul National al Audiovizualului",
+      "source": "https://serviciipublice.gov.ro/institutii/2304",
+      "reportedParent": null
+    },
+    {
+      "id": "2318",
+      "name": "Consiliul National al Rectorilor",
+      "source": "https://serviciipublice.gov.ro/institutii/2318",
+      "reportedParent": null
+    },
+    {
+      "id": "2313",
+      "name": "Consiliul National de Solutionare a Contestatiilor",
+      "source": "https://serviciipublice.gov.ro/institutii/2313",
+      "reportedParent": null
+    },
+    {
+      "id": "2300",
+      "name": "Consiliul National pentru Combaterea Discriminarii",
+      "source": "https://serviciipublice.gov.ro/institutii/2300",
+      "reportedParent": null
+    },
+    {
+      "id": "2306",
+      "name": "Consiliul National pentru Studierea Arhivelor Securitatii",
+      "source": "https://serviciipublice.gov.ro/institutii/2306",
+      "reportedParent": null
+    },
+    {
+      "id": "2311",
+      "name": "Consiliul Superior al Magistraturii",
+      "source": "https://serviciipublice.gov.ro/institutii/2311",
+      "reportedParent": null
+    },
+    {
+      "id": "2558",
+      "name": "Corpul de Control al Prim-Ministrului",
+      "source": "https://serviciipublice.gov.ro/institutii/2558",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2316",
+      "name": "Curtea de Conturi a Romaniei",
+      "source": "https://serviciipublice.gov.ro/institutii/2316",
+      "reportedParent": null
+    },
+    {
+      "id": "2560",
+      "name": "Departamentul pentru Dezvoltare Durabilă",
+      "source": "https://serviciipublice.gov.ro/institutii/2560",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2561",
+      "name": "Departamentul pentru Luptă Antifraudă",
+      "source": "https://serviciipublice.gov.ro/institutii/2561",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2574",
+      "name": "Departamentul pentru relația cu Parlamentul",
+      "source": "https://serviciipublice.gov.ro/institutii/2574",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2557",
+      "name": "Departamentul pentru relația cu Republica Moldova",
+      "source": "https://serviciipublice.gov.ro/institutii/2557",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2559",
+      "name": "Departamentul pentru Relaţii Interetnice",
+      "source": "https://serviciipublice.gov.ro/institutii/2559",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2556",
+      "name": "Departamentul pentru Românii de Pretutindeni",
+      "source": "https://serviciipublice.gov.ro/institutii/2556",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2816",
+      "name": "Departamentul pentru Situatii de Urgenta",
+      "source": "https://serviciipublice.gov.ro/institutii/2816",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2744",
+      "name": "Departmentul Regional de Studii pentru Managementul Resurselor de Apărare",
+      "source": "https://serviciipublice.gov.ro/institutii/2744",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2836",
+      "name": "Direcția comunicații și tehnologia informației",
+      "source": "https://serviciipublice.gov.ro/institutii/2836",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2808",
+      "name": "Directia Fonduri Externe Nerambursabile",
+      "source": "https://serviciipublice.gov.ro/institutii/2808",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2809",
+      "name": "Directia Generala Anticoruptie",
+      "source": "https://serviciipublice.gov.ro/institutii/2809",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2785",
+      "name": "Direcţia Generală de Paşapoarte",
+      "source": "https://serviciipublice.gov.ro/institutii/2785",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2794",
+      "name": "Directia Generala de Protectie Interna",
+      "source": "https://serviciipublice.gov.ro/institutii/2794",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2724",
+      "name": "Direcția Generală Dezvoltare Rurală AM PNDR (MADR)",
+      "source": "https://serviciipublice.gov.ro/institutii/2724",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2822",
+      "name": "Directia Generala Financiara",
+      "source": "https://serviciipublice.gov.ro/institutii/2822",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2609",
+      "name": "Direcția Generală Logistică",
+      "source": "https://serviciipublice.gov.ro/institutii/2609",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2610",
+      "name": "Direcția Generală Logistică - Direcția Asigurare Logistică Integrată",
+      "source": "https://serviciipublice.gov.ro/institutii/2610",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2607",
+      "name": "Direcţia Generală Management Resurse Umane",
+      "source": "https://serviciipublice.gov.ro/institutii/2607",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2788",
+      "name": "Direcţia Generală Management Resurse Umane - Direcția Inspecția Muncii",
+      "source": "https://serviciipublice.gov.ro/institutii/2788",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2828",
+      "name": "Directia generala management resurse umane (MApN)",
+      "source": "https://serviciipublice.gov.ro/institutii/2828",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2813",
+      "name": "Direcția Generală Mangement Operațional",
+      "source": "https://serviciipublice.gov.ro/institutii/2813",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2810",
+      "name": "Directia Generala pentru Evidenta Persoanelor",
+      "source": "https://serviciipublice.gov.ro/institutii/2810",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2608",
+      "name": "Directia Generala pentru Relatiile cu Institutiile Prefectului",
+      "source": "https://serviciipublice.gov.ro/institutii/2608",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2787",
+      "name": "Direcția Generală pentru Relațiile cu Instituțiile Prefectului - Instituțiile Prefectului",
+      "source": "https://serviciipublice.gov.ro/institutii/2787",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2812",
+      "name": "Direcţia Generală Permise de Conducere și Înmatriculări",
+      "source": "https://serviciipublice.gov.ro/institutii/2812",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2409",
+      "name": "Directia Hidrografica Maritima",
+      "source": "https://serviciipublice.gov.ro/institutii/2409",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2545",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Alba",
+      "source": "https://serviciipublice.gov.ro/institutii/2545",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2546",
+      "name": "Direcţia Județeană pentru Sport şi Tineret Arad",
+      "source": "https://serviciipublice.gov.ro/institutii/2546",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2547",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Argeş",
+      "source": "https://serviciipublice.gov.ro/institutii/2547",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2548",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Bacău",
+      "source": "https://serviciipublice.gov.ro/institutii/2548",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2549",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Bihor",
+      "source": "https://serviciipublice.gov.ro/institutii/2549",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2550",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Bistriţa - Năsăud",
+      "source": "https://serviciipublice.gov.ro/institutii/2550",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2551",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Botoşani",
+      "source": "https://serviciipublice.gov.ro/institutii/2551",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2552",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Brăila",
+      "source": "https://serviciipublice.gov.ro/institutii/2552",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2554",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Braşov",
+      "source": "https://serviciipublice.gov.ro/institutii/2554",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2575",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Buzău",
+      "source": "https://serviciipublice.gov.ro/institutii/2575",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2576",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Călăraşi",
+      "source": "https://serviciipublice.gov.ro/institutii/2576",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2577",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Caraş-Severin",
+      "source": "https://serviciipublice.gov.ro/institutii/2577",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2578",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Cluj",
+      "source": "https://serviciipublice.gov.ro/institutii/2578",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2579",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Constanţa",
+      "source": "https://serviciipublice.gov.ro/institutii/2579",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2580",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Covasna",
+      "source": "https://serviciipublice.gov.ro/institutii/2580",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2581",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Dâmboviţa",
+      "source": "https://serviciipublice.gov.ro/institutii/2581",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2582",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Dolj",
+      "source": "https://serviciipublice.gov.ro/institutii/2582",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2583",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Galaţi",
+      "source": "https://serviciipublice.gov.ro/institutii/2583",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2584",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Giurgiu",
+      "source": "https://serviciipublice.gov.ro/institutii/2584",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2585",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Gorj",
+      "source": "https://serviciipublice.gov.ro/institutii/2585",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2586",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Harghita",
+      "source": "https://serviciipublice.gov.ro/institutii/2586",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2587",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Hunedoara",
+      "source": "https://serviciipublice.gov.ro/institutii/2587",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2588",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Ialomiţa",
+      "source": "https://serviciipublice.gov.ro/institutii/2588",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2589",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Iaşi",
+      "source": "https://serviciipublice.gov.ro/institutii/2589",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2590",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Ilfov",
+      "source": "https://serviciipublice.gov.ro/institutii/2590",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2591",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Maramureş",
+      "source": "https://serviciipublice.gov.ro/institutii/2591",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2592",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Mehedinţi",
+      "source": "https://serviciipublice.gov.ro/institutii/2592",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2593",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Mureş",
+      "source": "https://serviciipublice.gov.ro/institutii/2593",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2594",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Neamţ",
+      "source": "https://serviciipublice.gov.ro/institutii/2594",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2595",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Olt",
+      "source": "https://serviciipublice.gov.ro/institutii/2595",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2596",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Prahova",
+      "source": "https://serviciipublice.gov.ro/institutii/2596",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2597",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Sălaj",
+      "source": "https://serviciipublice.gov.ro/institutii/2597",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2598",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Satu-Mare",
+      "source": "https://serviciipublice.gov.ro/institutii/2598",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2599",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Sibiu",
+      "source": "https://serviciipublice.gov.ro/institutii/2599",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2600",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Suceava",
+      "source": "https://serviciipublice.gov.ro/institutii/2600",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2601",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Teleorman",
+      "source": "https://serviciipublice.gov.ro/institutii/2601",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2602",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Timiş",
+      "source": "https://serviciipublice.gov.ro/institutii/2602",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2603",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Tulcea",
+      "source": "https://serviciipublice.gov.ro/institutii/2603",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2604",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Vâlcea",
+      "source": "https://serviciipublice.gov.ro/institutii/2604",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2605",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Vaslui",
+      "source": "https://serviciipublice.gov.ro/institutii/2605",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2606",
+      "name": "Direcţia Judeţeană pentru Sport şi Tineret Vrancea",
+      "source": "https://serviciipublice.gov.ro/institutii/2606",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2811",
+      "name": "Directia Medicala",
+      "source": "https://serviciipublice.gov.ro/institutii/2811",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2712",
+      "name": "Direcția operații",
+      "source": "https://serviciipublice.gov.ro/institutii/2712",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2344",
+      "name": "Directia pentru Agricultura Judeteana",
+      "source": "https://serviciipublice.gov.ro/institutii/2344",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2616",
+      "name": "Direcția pentru Evidența Persoanelor și Administrarea Bazelor de Date",
+      "source": "https://serviciipublice.gov.ro/institutii/2616",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2786",
+      "name": "Direcţia pentru Evidenţa Persoanelor şi Administrarea Bazelor de DateServiciile publice comunitare judeţene/locale de evidenţă a persoanelor - aflate în coordonarea D.E.P.A.B.D.",
+      "source": "https://serviciipublice.gov.ro/institutii/2786",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2544",
+      "name": "Direcţia pentru Sport şi Tineret a Municipiului Bucureşti",
+      "source": "https://serviciipublice.gov.ro/institutii/2544",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2615",
+      "name": "Direcția Regim Permise de Conducere și Înmatriculare a Vehiculelor",
+      "source": "https://serviciipublice.gov.ro/institutii/2615",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2721",
+      "name": "Directiile de Sanatate Publica Judetene",
+      "source": "https://serviciipublice.gov.ro/institutii/2721",
+      "reportedParent": "Subordonată Ministerul Sanatatii"
+    },
+    {
+      "id": "2496",
+      "name": "Directii pentru cultura",
+      "source": "https://serviciipublice.gov.ro/institutii/2496",
+      "reportedParent": "Subordonată Ministerul Culturii"
+    },
+    {
+      "id": "2287",
+      "name": "Directoratul National de Securitate Cibernetica",
+      "source": "https://serviciipublice.gov.ro/institutii/2287",
+      "reportedParent": null
+    },
+    {
+      "id": "2462",
+      "name": "Editura Universitara „Carol Davila” Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2462",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2795",
+      "name": "Electrocentrale Bucuresti SA",
+      "source": "https://serviciipublice.gov.ro/institutii/2795",
+      "reportedParent": "Subordonată Ministerul Energiei"
+    },
+    {
+      "id": "2315",
+      "name": "Federatia Romana de Sah",
+      "source": "https://serviciipublice.gov.ro/institutii/2315",
+      "reportedParent": null
+    },
+    {
+      "id": "2442",
+      "name": "Garda Forestiera Brasov",
+      "source": "https://serviciipublice.gov.ro/institutii/2442",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2434",
+      "name": "Garda Forestiera Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2434",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2435",
+      "name": "Garda Forestiera Cluj",
+      "source": "https://serviciipublice.gov.ro/institutii/2435",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2439",
+      "name": "Garda Forestiera Focsani",
+      "source": "https://serviciipublice.gov.ro/institutii/2439",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2796",
+      "name": "Garda Forestiera Nationala și cele 9 Gărzi Forestiere regionale",
+      "source": "https://serviciipublice.gov.ro/institutii/2796",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2805",
+      "name": "Garda Forestiera Oradea",
+      "source": "https://serviciipublice.gov.ro/institutii/2805",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2806",
+      "name": "Garda Forestiera Ploiesti",
+      "source": "https://serviciipublice.gov.ro/institutii/2806",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2433",
+      "name": "Garda Forestiera Rm. Valcea",
+      "source": "https://serviciipublice.gov.ro/institutii/2433",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2798",
+      "name": "Garda Forestiera Suceava",
+      "source": "https://serviciipublice.gov.ro/institutii/2798",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2436",
+      "name": "Garda Forestiera Timisoara",
+      "source": "https://serviciipublice.gov.ro/institutii/2436",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2452",
+      "name": "Garda Nationala de Mediu",
+      "source": "https://serviciipublice.gov.ro/institutii/2452",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2319",
+      "name": "HUB-ul IA",
+      "source": "https://serviciipublice.gov.ro/institutii/2319",
+      "reportedParent": null
+    },
+    {
+      "id": "2532",
+      "name": "Inspecția de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat - ISCIR",
+      "source": "https://serviciipublice.gov.ro/institutii/2532",
+      "reportedParent": "Subordonată Ministerul Economiei, Antreprenoriatului si Turismului"
+    },
+    {
+      "id": "2343",
+      "name": "Inspectia Muncii",
+      "source": "https://serviciipublice.gov.ro/institutii/2343",
+      "reportedParent": "Subordonată Ministerul Muncii si Solidaritatii Sociale"
+    },
+    {
+      "id": "2361",
+      "name": "Inspectoratul de Stat in Constructii",
+      "source": "https://serviciipublice.gov.ro/institutii/2361",
+      "reportedParent": "Subordonată Ministerul Dezvoltării, Lucrărilor Publice și Administrației"
+    },
+    {
+      "id": "2665",
+      "name": "Inspectoratul de Stat pentru Controlul în Transportul Rutier",
+      "source": "https://serviciipublice.gov.ro/institutii/2665",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2820",
+      "name": "Inspectoratul General al Jandarmeriei Romane – Directia Ordine si Siguranta Publica",
+      "source": "https://serviciipublice.gov.ro/institutii/2820",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2821",
+      "name": "Inspectoratul General al Poliției Române – Direcția Arme, Explozivi și Substanțe Periculoase",
+      "source": "https://serviciipublice.gov.ro/institutii/2821",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2819",
+      "name": "Inspectoratul General al Politiei Romane prin Directia Cazier Judiciar, Statistica si Evidente Operative",
+      "source": "https://serviciipublice.gov.ro/institutii/2819",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2617",
+      "name": "Inspectoratul General pentru Imigrări",
+      "source": "https://serviciipublice.gov.ro/institutii/2617",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2618",
+      "name": "Inspectoratul General pentru Situații de Urgență",
+      "source": "https://serviciipublice.gov.ro/institutii/2618",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2825",
+      "name": "Inspectoratul General pentru Situații de Urgență - Centrul Național pentru Securitate la Incendiu și Protecție Civilă",
+      "source": "https://serviciipublice.gov.ro/institutii/2825",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2465",
+      "name": "Inspectoratul Scolar Judetean Brasov",
+      "source": "https://serviciipublice.gov.ro/institutii/2465",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2459",
+      "name": "Inspectoratul Scolar Judetean Giurgiu",
+      "source": "https://serviciipublice.gov.ro/institutii/2459",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2354",
+      "name": "Inspectoratul Teritorial pentru Calitatea Semintelor si Materialului Saditor",
+      "source": "https://serviciipublice.gov.ro/institutii/2354",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2831",
+      "name": "Institutia Prefectului Judetului Maramures",
+      "source": "https://serviciipublice.gov.ro/institutii/2831",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2294",
+      "name": "Institutie centrala exemplu",
+      "source": "https://serviciipublice.gov.ro/institutii/2294",
+      "reportedParent": null
+    },
+    {
+      "id": "2743",
+      "name": "Institutie subordonata exemplu",
+      "source": "https://serviciipublice.gov.ro/institutii/2743",
+      "reportedParent": "Subordonată Institutie centrala exemplu"
+    },
+    {
+      "id": "2814",
+      "name": "Institutie subord test",
+      "source": "https://serviciipublice.gov.ro/institutii/2814",
+      "reportedParent": "Subordonată Institutie test"
+    },
+    {
+      "id": "2312",
+      "name": "Institutie test",
+      "source": "https://serviciipublice.gov.ro/institutii/2312",
+      "reportedParent": null
+    },
+    {
+      "id": "2320",
+      "name": "Institutii ce vor avea atributii in implementarea Data Governance Act si Data Act",
+      "source": "https://serviciipublice.gov.ro/institutii/2320",
+      "reportedParent": null
+    },
+    {
+      "id": "2427",
+      "name": "Institutul de Fizica Atomica",
+      "source": "https://serviciipublice.gov.ro/institutii/2427",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2568",
+      "name": "Institutul de Investigare a Crimelor Comunismului şi Memoria Exilului Românesc",
+      "source": "https://serviciipublice.gov.ro/institutii/2568",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2347",
+      "name": "Institutul de Stat pentru Testarea si Inregistrarea Soiurilor",
+      "source": "https://serviciipublice.gov.ro/institutii/2347",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2732",
+      "name": "Institutul Medico-Militar",
+      "source": "https://serviciipublice.gov.ro/institutii/2732",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2486",
+      "name": "Institutul National al Patrimoniului",
+      "source": "https://serviciipublice.gov.ro/institutii/2486",
+      "reportedParent": "Subordonată Ministerul Culturii"
+    },
+    {
+      "id": "2803",
+      "name": "Institutul National de Administratie",
+      "source": "https://serviciipublice.gov.ro/institutii/2803",
+      "reportedParent": "Subordonată Ministerul Dezvoltării, Lucrărilor Publice și Administrației"
+    },
+    {
+      "id": "2511",
+      "name": "Institutul National de Cercetare-Dezvoltare Aerospatiala-INCAS Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2511",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2523",
+      "name": "Institutul National de Cercetare-Dezvoltare Agricola Fundulea-INCDA Fundulea",
+      "source": "https://serviciipublice.gov.ro/institutii/2523",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2504",
+      "name": "Institutul National de Cercetare-Dezvoltare Chimico-Farmaceutica – INCDCF-ICCF Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2504",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2426",
+      "name": "Institutul National de Cercetare-Dezvoltare \"Delta Dunarii\"",
+      "source": "https://serviciipublice.gov.ro/institutii/2426",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2519",
+      "name": "Institutul National de Cercetare-Dezvoltare in Constructii Urbanism si Dezvoltare Teritoriala Durabila URBAN-INCERC Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2519",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2498",
+      "name": "Institutul National de Cercetare-Dezvoltare in domeniul Geologiei, Geofizicii, Geochimiei si Teledetectiei - I.G.R. Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2498",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2430",
+      "name": "Institutul National de Cercetare-Dezvoltare in Domeniul Patologiei si Stiintelor Biomedicale \"Victor Babes\"",
+      "source": "https://serviciipublice.gov.ro/institutii/2430",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2571",
+      "name": "Institutul Național de Cercetare - Dezvoltare în Informatică",
+      "source": "https://serviciipublice.gov.ro/institutii/2571",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2527",
+      "name": "Institutul National de Cercetare-Dezvoltare în Silvicultura “Marin Dracea”",
+      "source": "https://serviciipublice.gov.ro/institutii/2527",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2425",
+      "name": "Institutul National de Cercetare-Dezvoltare in Sudura si Incercari de Materiale",
+      "source": "https://serviciipublice.gov.ro/institutii/2425",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2520",
+      "name": "Institutul National de Cercetare-Dezvoltare in Turism - INCDT Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2520",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2522",
+      "name": "Institutul National de Cercetare – Dezvoltare Marina \"Grigore Antipa\" - I.N.C.D.M. Constanta",
+      "source": "https://serviciipublice.gov.ro/institutii/2522",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2720",
+      "name": "Institutul National de Cercetare Dezvoltare Medico-Militara Cantacuzino",
+      "source": "https://serviciipublice.gov.ro/institutii/2720",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2524",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Biologie si Nutritie Animala-INCDBNA Balotesti",
+      "source": "https://serviciipublice.gov.ro/institutii/2524",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2431",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Bioresurse Alimentare - IBA Bucuresti / Serviciul National pentru Plante Medicinale, Aromatice si Produse ale Stupului",
+      "source": "https://serviciipublice.gov.ro/institutii/2431",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2525",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Cartof si Sfecla de Zahar INCDCSZ Brasov",
+      "source": "https://serviciipublice.gov.ro/institutii/2525",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2515",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Chimie si Petrochimie-ICECHIM Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2515",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2514",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Ecologie Industriala-ECOIND Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2514",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2505",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Electrochimie si Materie Condensata - INCEMC Timisoara",
+      "source": "https://serviciipublice.gov.ro/institutii/2505",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2518",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Energie ICEMENERG Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2518",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2503",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Fizica Materialelor - INCDFM Magurele",
+      "source": "https://serviciipublice.gov.ro/institutii/2503",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2501",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Fizica si Inginerie Nucleara ”Horia Hulubei” - IFIN-HH Magurele",
+      "source": "https://serviciipublice.gov.ro/institutii/2501",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2502",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Fizica Tehnica - IFT Iasi",
+      "source": "https://serviciipublice.gov.ro/institutii/2502",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2506",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Geologie si Geoecologie Marina - GEOECOMAR Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2506",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2421",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Inginerie Electrica ICPE-CA",
+      "source": "https://serviciipublice.gov.ro/institutii/2421",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2500",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Masini si Instalatii destinate Agriculturii si Industriei Alimentare - INMA Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2500",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2512",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Mecatronica si Tehnica Masurarii - INCDMTM Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2512",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2516",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Metale Neferoase si Rare-INCDMNR Pantelimon",
+      "source": "https://serviciipublice.gov.ro/institutii/2516",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2429",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Metale si Resurse Radioactive",
+      "source": "https://serviciipublice.gov.ro/institutii/2429",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2508",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Microtehnologie - IMT Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2508",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2494",
+      "name": "Institutul Naţional de Cercetare-Dezvoltare pentru Optoelectronica INOE-2000 Magurele",
+      "source": "https://serviciipublice.gov.ro/institutii/2494",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2526",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Pedologie, Agrochimie si Protectia Mediului-ICPA Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2526",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2521",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Protectia Mediului- Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2521",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2424",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Protectia Muncii ”Alexandru Darabont”",
+      "source": "https://serviciipublice.gov.ro/institutii/2424",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2517",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Securitate Miniera si Protectie Antiexploziva-INSEMEX Petrosani",
+      "source": "https://serviciipublice.gov.ro/institutii/2517",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2507",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Stiinte Biologice INCDSB Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2507",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2509",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Tehnologii Criogenice si Izotopice –INC- DTCI-ICSI Ramnicu Valcea",
+      "source": "https://serviciipublice.gov.ro/institutii/2509",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2510",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Tehnologii Izotopice si Moleculare – INCDTIM Cluj-Napoca",
+      "source": "https://serviciipublice.gov.ro/institutii/2510",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2499",
+      "name": "Institutul National de Cercetare-Dezvoltare pentru Textile si Pielarie - INCDTP Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2499",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2513",
+      "name": "Institutul National de Cercetare-Dezvoltare si Incercari pentru Electrotehnica-ICMET Craiova",
+      "source": "https://serviciipublice.gov.ro/institutii/2513",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2497",
+      "name": "Institutul National de Cercetare- Dezvoltare Turbomotoare-COMOTI Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2497",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2647",
+      "name": "Institutul National de Cercetare pentru Sport",
+      "source": "https://serviciipublice.gov.ro/institutii/2647",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2723",
+      "name": "Institutul Național de Cercetare Științifică în Domeniul Muncii Și Protecției Sociale",
+      "source": "https://serviciipublice.gov.ro/institutii/2723",
+      "reportedParent": "Subordonată Ministerul Muncii si Solidaritatii Sociale"
+    },
+    {
+      "id": "2378",
+      "name": "Institutul Naţional de Medicina Aeronautica şi Spatiala \"General doctor aviator Victor Anastasiu\"",
+      "source": "https://serviciipublice.gov.ro/institutii/2378",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2480",
+      "name": "Institutul Național de Sănătate Publică",
+      "source": "https://serviciipublice.gov.ro/institutii/2480",
+      "reportedParent": "Subordonată Ministerul Sanatatii"
+    },
+    {
+      "id": "2562",
+      "name": "Institutul Naţional de Statistică",
+      "source": "https://serviciipublice.gov.ro/institutii/2562",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2485",
+      "name": "Institutul National pentru Cercetare si Formare Culturala",
+      "source": "https://serviciipublice.gov.ro/institutii/2485",
+      "reportedParent": "Subordonată Ministerul Culturii"
+    },
+    {
+      "id": "2423",
+      "name": "Institutul National pentru Fizica Laserilor, Plasmei si Radiatiei",
+      "source": "https://serviciipublice.gov.ro/institutii/2423",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2428",
+      "name": "Institutul National pentru Fizica Pamantului",
+      "source": "https://serviciipublice.gov.ro/institutii/2428",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2567",
+      "name": "Institutul Naţional pentru Studierea Holocaustului din România „Elie Wiesel”",
+      "source": "https://serviciipublice.gov.ro/institutii/2567",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2620",
+      "name": "Jandarmeria Romana",
+      "source": "https://serviciipublice.gov.ro/institutii/2620",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2784",
+      "name": "Jandarmeria Română - Direcția Pază și Protecție Instituțională",
+      "source": "https://serviciipublice.gov.ro/institutii/2784",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2350",
+      "name": "Laboratorul Central pentru Calitatea Semintelor si a Materialului Saditor",
+      "source": "https://serviciipublice.gov.ro/institutii/2350",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2349",
+      "name": "Laboratorul Central pentru Controlul Calitatii si Igienei Vinului",
+      "source": "https://serviciipublice.gov.ro/institutii/2349",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2726",
+      "name": "Laboratorul Control Antidoping",
+      "source": "https://serviciipublice.gov.ro/institutii/2726",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2324",
+      "name": "MAI-Departamentul pentru Situatii de Urgenta",
+      "source": "https://serviciipublice.gov.ro/institutii/2324",
+      "reportedParent": null
+    },
+    {
+      "id": "2325",
+      "name": "MCID-Autoritatea pentru Digitalizarea Romaniei",
+      "source": "https://serviciipublice.gov.ro/institutii/2325",
+      "reportedParent": null
+    },
+    {
+      "id": "2326",
+      "name": "MDLPA-Agentiile de Dezvoltare Regionala",
+      "source": "https://serviciipublice.gov.ro/institutii/2326",
+      "reportedParent": null
+    },
+    {
+      "id": "2327",
+      "name": "MDLPA-Institutul National de Administratie",
+      "source": "https://serviciipublice.gov.ro/institutii/2327",
+      "reportedParent": null
+    },
+    {
+      "id": "2328",
+      "name": "ME-Asociatia de Standardizare din Romania",
+      "source": "https://serviciipublice.gov.ro/institutii/2328",
+      "reportedParent": null
+    },
+    {
+      "id": "2329",
+      "name": "MEc-OSIM/ORDA",
+      "source": "https://serviciipublice.gov.ro/institutii/2329",
+      "reportedParent": null
+    },
+    {
+      "id": "2330",
+      "name": "MEd-UEFISCDI",
+      "source": "https://serviciipublice.gov.ro/institutii/2330",
+      "reportedParent": null
+    },
+    {
+      "id": "2336",
+      "name": "MF-Agentia Nationala de Administrare Fiscala",
+      "source": "https://serviciipublice.gov.ro/institutii/2336",
+      "reportedParent": null
+    },
+    {
+      "id": "2338",
+      "name": "MF-Agenția Națională pentru Achiziții Publice",
+      "source": "https://serviciipublice.gov.ro/institutii/2338",
+      "reportedParent": null
+    },
+    {
+      "id": "2335",
+      "name": "MF-Autoritatea Navala Romana",
+      "source": "https://serviciipublice.gov.ro/institutii/2335",
+      "reportedParent": null
+    },
+    {
+      "id": "2799",
+      "name": "Midia Green Energy SA",
+      "source": "https://serviciipublice.gov.ro/institutii/2799",
+      "reportedParent": "Subordonată Ministerul Energiei"
+    },
+    {
+      "id": "2280",
+      "name": "Ministerul Afacerilor Externe",
+      "source": "https://serviciipublice.gov.ro/institutii/2280",
+      "reportedParent": null
+    },
+    {
+      "id": "2288",
+      "name": "Ministerul Afacerilor Interne",
+      "source": "https://serviciipublice.gov.ro/institutii/2288",
+      "reportedParent": null
+    },
+    {
+      "id": "2272",
+      "name": "Ministerul Agriculturii si Dezvoltarii Rurale",
+      "source": "https://serviciipublice.gov.ro/institutii/2272",
+      "reportedParent": null
+    },
+    {
+      "id": "2309",
+      "name": "Ministerul Antreprenoriatului si Tursimului",
+      "source": "https://serviciipublice.gov.ro/institutii/2309",
+      "reportedParent": null
+    },
+    {
+      "id": "2284",
+      "name": "Ministerul Apararii Nationale",
+      "source": "https://serviciipublice.gov.ro/institutii/2284",
+      "reportedParent": null
+    },
+    {
+      "id": "2289",
+      "name": "Ministerul Cercetarii, Inovarii si Digitalizarii",
+      "source": "https://serviciipublice.gov.ro/institutii/2289",
+      "reportedParent": null
+    },
+    {
+      "id": "2274",
+      "name": "Ministerul Culturii",
+      "source": "https://serviciipublice.gov.ro/institutii/2274",
+      "reportedParent": null
+    },
+    {
+      "id": "2276",
+      "name": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+      "source": "https://serviciipublice.gov.ro/institutii/2276",
+      "reportedParent": null
+    },
+    {
+      "id": "2275",
+      "name": "Ministerul Economiei, Antreprenoriatului si Turismului",
+      "source": "https://serviciipublice.gov.ro/institutii/2275",
+      "reportedParent": null
+    },
+    {
+      "id": "2286",
+      "name": "Ministerul Educatiei",
+      "source": "https://serviciipublice.gov.ro/institutii/2286",
+      "reportedParent": null
+    },
+    {
+      "id": "2837",
+      "name": "Ministerul Educației și Cercetării",
+      "source": "https://serviciipublice.gov.ro/institutii/2837",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2290",
+      "name": "Ministerul Energiei",
+      "source": "https://serviciipublice.gov.ro/institutii/2290",
+      "reportedParent": null
+    },
+    {
+      "id": "2308",
+      "name": "Ministerul Familiei, Tineretului si Egalitatii de Sanse",
+      "source": "https://serviciipublice.gov.ro/institutii/2308",
+      "reportedParent": null
+    },
+    {
+      "id": "2281",
+      "name": "Ministerul Finantelor",
+      "source": "https://serviciipublice.gov.ro/institutii/2281",
+      "reportedParent": null
+    },
+    {
+      "id": "2838",
+      "name": "Ministerul Fondurilor Europene",
+      "source": "https://serviciipublice.gov.ro/institutii/2838",
+      "reportedParent": null
+    },
+    {
+      "id": "2292",
+      "name": "Ministerul Investitiilor si Proiectelor Europene",
+      "source": "https://serviciipublice.gov.ro/institutii/2292",
+      "reportedParent": null
+    },
+    {
+      "id": "2273",
+      "name": "Ministerul Justitiei",
+      "source": "https://serviciipublice.gov.ro/institutii/2273",
+      "reportedParent": null
+    },
+    {
+      "id": "2285",
+      "name": "Ministerul Mediului, Apelor si Padurilor",
+      "source": "https://serviciipublice.gov.ro/institutii/2285",
+      "reportedParent": null
+    },
+    {
+      "id": "2271",
+      "name": "Ministerul Muncii si Solidaritatii Sociale",
+      "source": "https://serviciipublice.gov.ro/institutii/2271",
+      "reportedParent": null
+    },
+    {
+      "id": "2291",
+      "name": "Ministerul Sanatatii",
+      "source": "https://serviciipublice.gov.ro/institutii/2291",
+      "reportedParent": null
+    },
+    {
+      "id": "2278",
+      "name": "Ministerul Tineretului si Sportului",
+      "source": "https://serviciipublice.gov.ro/institutii/2278",
+      "reportedParent": null
+    },
+    {
+      "id": "2283",
+      "name": "Ministerul Transporturilor si Infrastructurii",
+      "source": "https://serviciipublice.gov.ro/institutii/2283",
+      "reportedParent": null
+    },
+    {
+      "id": "2363",
+      "name": "Ministerul Transporturilor si Infrstructurii",
+      "source": "https://serviciipublice.gov.ro/institutii/2363",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2797",
+      "name": "MMAP-Directii",
+      "source": "https://serviciipublice.gov.ro/institutii/2797",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2339",
+      "name": "MMSS-Agenția Națională pentru Ocuparea Forței de Muncă",
+      "source": "https://serviciipublice.gov.ro/institutii/2339",
+      "reportedParent": null
+    },
+    {
+      "id": "2337",
+      "name": "MS-Casa Nationala de Asigurari de Sanatate",
+      "source": "https://serviciipublice.gov.ro/institutii/2337",
+      "reportedParent": null
+    },
+    {
+      "id": "2745",
+      "name": "Muzeul Militar Național „Regele Ferdinand I”",
+      "source": "https://serviciipublice.gov.ro/institutii/2745",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2648",
+      "name": "Muzeul Sportului",
+      "source": "https://serviciipublice.gov.ro/institutii/2648",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2539",
+      "name": "Oficiul de Compensare pentru Achiziții de Tehnică Specială - OCATS",
+      "source": "https://serviciipublice.gov.ro/institutii/2539",
+      "reportedParent": "Subordonată Ministerul Economiei, Antreprenoriatului si Turismului"
+    },
+    {
+      "id": "2534",
+      "name": "Oficiul de Stat pentru Invenţii şi Mărci - OSIM",
+      "source": "https://serviciipublice.gov.ro/institutii/2534",
+      "reportedParent": "Subordonată Ministerul Economiei, Antreprenoriatului si Turismului"
+    },
+    {
+      "id": "2279",
+      "name": "Oficiul National al Registrului Comertului",
+      "source": "https://serviciipublice.gov.ro/institutii/2279",
+      "reportedParent": null
+    },
+    {
+      "id": "2834",
+      "name": "Oficiul National pentru Cultul Eroilor",
+      "source": "https://serviciipublice.gov.ro/institutii/2834",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2748",
+      "name": "Oficiul National pentru Jocuri de Noroc",
+      "source": "https://serviciipublice.gov.ro/institutii/2748",
+      "reportedParent": "Subordonată Ministerul Finantelor"
+    },
+    {
+      "id": "2355",
+      "name": "Oficiul pentru Studii Pedologice si Agrochimice",
+      "source": "https://serviciipublice.gov.ro/institutii/2355",
+      "reportedParent": "Subordonată Ministerul Agriculturii si Dezvoltarii Rurale"
+    },
+    {
+      "id": "2827",
+      "name": "Oficiul Registrului Național al Informațiilor Secrete de Stat",
+      "source": "https://serviciipublice.gov.ro/institutii/2827",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2479",
+      "name": "Oficiul Roman pentru Drepturile de Autor",
+      "source": "https://serviciipublice.gov.ro/institutii/2479",
+      "reportedParent": "Subordonată Ministerul Culturii"
+    },
+    {
+      "id": "2833",
+      "name": "Palatul National al Copiilor Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2833",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2619",
+      "name": "Poliția de Frontieră Română",
+      "source": "https://serviciipublice.gov.ro/institutii/2619",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2782",
+      "name": "Politia Romana",
+      "source": "https://serviciipublice.gov.ro/institutii/2782",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2783",
+      "name": "Poliţia Română - Direcția de Ordine Publică (D.O.P.)",
+      "source": "https://serviciipublice.gov.ro/institutii/2783",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2621",
+      "name": "Poliția Română - Direcția Rutieră (DR)",
+      "source": "https://serviciipublice.gov.ro/institutii/2621",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2369",
+      "name": "Regia Autonomă ”Administrația Canalului Navigabil Bega” Timiș",
+      "source": "https://serviciipublice.gov.ro/institutii/2369",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2670",
+      "name": "Regia Autonomă \"Administrația Fluvială a Dunării de Jos Galați\" - RA",
+      "source": "https://serviciipublice.gov.ro/institutii/2670",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2669",
+      "name": "Regia Autonomă \"Administrația Română a Serviciilor de Trafic Aerian - ROMATSA\"",
+      "source": "https://serviciipublice.gov.ro/institutii/2669",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2397",
+      "name": "Regia Autonoma Autoritatea Aeronautica Civila Romana",
+      "source": "https://serviciipublice.gov.ro/institutii/2397",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2437",
+      "name": "Regia Nationala a Padurilor - Romsilva",
+      "source": "https://serviciipublice.gov.ro/institutii/2437",
+      "reportedParent": "Subordonată Ministerul Mediului, Apelor si Padurilor"
+    },
+    {
+      "id": "2371",
+      "name": "Registrul Auto Roman",
+      "source": "https://serviciipublice.gov.ro/institutii/2371",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2483",
+      "name": "Registrul Național al Donatorilor Voluntari de Celule Stem Hematopoietice",
+      "source": "https://serviciipublice.gov.ro/institutii/2483",
+      "reportedParent": "Subordonată Ministerul Sanatatii"
+    },
+    {
+      "id": "2322",
+      "name": "Reteaua DIH urilor",
+      "source": "https://serviciipublice.gov.ro/institutii/2322",
+      "reportedParent": null
+    },
+    {
+      "id": "2719",
+      "name": "Sanatoriul de Balneofizioterapie și recuperare medicala ,,dr. Dimitrie Cantemir\" Baltatesti",
+      "source": "https://serviciipublice.gov.ro/institutii/2719",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2530",
+      "name": "S.C Institutul de Cercetari in Transporturi-INCERTRANS S.A. Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2530",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2735",
+      "name": "Școala Militară de Maiștri Militari a Forțelor Navale",
+      "source": "https://serviciipublice.gov.ro/institutii/2735",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2734",
+      "name": "Școala Militară de Maiștri Militari și Subofițeri a Forțelor Aeriene",
+      "source": "https://serviciipublice.gov.ro/institutii/2734",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2733",
+      "name": "Școala Militară de Maiștri Militari și Subofițeri a Forțelor Terestre",
+      "source": "https://serviciipublice.gov.ro/institutii/2733",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2747",
+      "name": "Școala Militară de Maiștri Militari și Subofițeri de Logistică „Gheorghe Lazăr”",
+      "source": "https://serviciipublice.gov.ro/institutii/2747",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2402",
+      "name": "Scoala Militara de maistri Militari si Subofiteri pentru Comunicatii, Tehnologia Informatiei si Aparare Cibernetica",
+      "source": "https://serviciipublice.gov.ro/institutii/2402",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2566",
+      "name": "Secretariatul de Stat pentru Culte",
+      "source": "https://serviciipublice.gov.ro/institutii/2566",
+      "reportedParent": "Subordonată Secretariatul General al Guvernului"
+    },
+    {
+      "id": "2277",
+      "name": "Secretariatul General al Guvernului",
+      "source": "https://serviciipublice.gov.ro/institutii/2277",
+      "reportedParent": null
+    },
+    {
+      "id": "2714",
+      "name": "Serviciul avizare vanzare cumparare terenuri agricole",
+      "source": "https://serviciipublice.gov.ro/institutii/2714",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2317",
+      "name": "Serviciul de Informatii Externe",
+      "source": "https://serviciipublice.gov.ro/institutii/2317",
+      "reportedParent": null
+    },
+    {
+      "id": "2298",
+      "name": "Serviciul de Protectie si Paza",
+      "source": "https://serviciipublice.gov.ro/institutii/2298",
+      "reportedParent": null
+    },
+    {
+      "id": "2282",
+      "name": "Serviciul de Telecomunicatii Speciale",
+      "source": "https://serviciipublice.gov.ro/institutii/2282",
+      "reportedParent": null
+    },
+    {
+      "id": "2293",
+      "name": "Serviciul Roman de Informatii",
+      "source": "https://serviciipublice.gov.ro/institutii/2293",
+      "reportedParent": null
+    },
+    {
+      "id": "2334",
+      "name": "SGG-Institutul National de Statistica",
+      "source": "https://serviciipublice.gov.ro/institutii/2334",
+      "reportedParent": null
+    },
+    {
+      "id": "2801",
+      "name": "SNGN Romgaz SA",
+      "source": "https://serviciipublice.gov.ro/institutii/2801",
+      "reportedParent": "Subordonată Ministerul Energiei"
+    },
+    {
+      "id": "2802",
+      "name": "SN Nuclearelectrica SA",
+      "source": "https://serviciipublice.gov.ro/institutii/2802",
+      "reportedParent": "Subordonată Ministerul Energiei"
+    },
+    {
+      "id": "2531",
+      "name": "S.N. Radiocomunicatii S.A.",
+      "source": "https://serviciipublice.gov.ro/institutii/2531",
+      "reportedParent": "Subordonată Ministerul Cercetarii, Inovarii si Digitalizarii"
+    },
+    {
+      "id": "2672",
+      "name": "Societatea Comercială \"Telecomunicații C.F.R.\" S.A.",
+      "source": "https://serviciipublice.gov.ro/institutii/2672",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2367",
+      "name": "Societatea Nationala a Cailor Ferate Romane",
+      "source": "https://serviciipublice.gov.ro/institutii/2367",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2668",
+      "name": "Societatea Națională \"Aeroportul Internațional M. Kogălniceanu Constanța\" - S.A.",
+      "source": "https://serviciipublice.gov.ro/institutii/2668",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2389",
+      "name": "Societatea Nationala de Transport Feroviar de Calatori",
+      "source": "https://serviciipublice.gov.ro/institutii/2389",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2398",
+      "name": "Societatea Nationala de Transport Feroviar de Marfa CFR Marfa SA",
+      "source": "https://serviciipublice.gov.ro/institutii/2398",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2800",
+      "name": "Societatea Oil Terminal SA",
+      "source": "https://serviciipublice.gov.ro/institutii/2800",
+      "reportedParent": "Subordonată Ministerul Energiei"
+    },
+    {
+      "id": "2305",
+      "name": "Societatea Romana de Radiodifuziune",
+      "source": "https://serviciipublice.gov.ro/institutii/2305",
+      "reportedParent": null
+    },
+    {
+      "id": "2301",
+      "name": "Societatea Romana de Televiziune",
+      "source": "https://serviciipublice.gov.ro/institutii/2301",
+      "reportedParent": null
+    },
+    {
+      "id": "2722",
+      "name": "Societatea Telecomunicatii CFR",
+      "source": "https://serviciipublice.gov.ro/institutii/2722",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2661",
+      "name": "Spital Clinic Cai Ferate Constanta",
+      "source": "https://serviciipublice.gov.ro/institutii/2661",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2377",
+      "name": "Spital Clinic Cai Ferate Timisoara",
+      "source": "https://serviciipublice.gov.ro/institutii/2377",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2393",
+      "name": "Spitalul Clinic Cai Ferate Cluj Napoca",
+      "source": "https://serviciipublice.gov.ro/institutii/2393",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2382",
+      "name": "Spitalul Clinic Cai Ferate Craiova",
+      "source": "https://serviciipublice.gov.ro/institutii/2382",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2379",
+      "name": "Spitalul Clinic Căi Ferate Iasi",
+      "source": "https://serviciipublice.gov.ro/institutii/2379",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2376",
+      "name": "Spitalul Clinic Cai Ferate nr. 2 Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2376",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2663",
+      "name": "Spitalul Clinic Cai Ferate Oradea",
+      "source": "https://serviciipublice.gov.ro/institutii/2663",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2403",
+      "name": "Spitalul Clinic de Urgență Militar ”Dr. Ștefan Odobleja” Craiova",
+      "source": "https://serviciipublice.gov.ro/institutii/2403",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2391",
+      "name": "Spitalul Clinic Militar de Urgenta \"Dr. Constantin Papilian Cluj-Napoca\"",
+      "source": "https://serviciipublice.gov.ro/institutii/2391",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2386",
+      "name": "Spitalul Clinic Militar de Urgenta \"Dr. Iacob Czihac\" Iasi",
+      "source": "https://serviciipublice.gov.ro/institutii/2386",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2718",
+      "name": "Spitalul Clinic Militar de Urgenta ,,dr. Victor Popescu\" Timisoara",
+      "source": "https://serviciipublice.gov.ro/institutii/2718",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2392",
+      "name": "Spitalul Clinic Nr. 1 Cai Ferate Witting",
+      "source": "https://serviciipublice.gov.ro/institutii/2392",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2823",
+      "name": "Spitalul de Urgență „Prof. Dr. Dimitrie Gerota” București",
+      "source": "https://serviciipublice.gov.ro/institutii/2823",
+      "reportedParent": "Subordonată Ministerul Afacerilor Interne"
+    },
+    {
+      "id": "2375",
+      "name": "Spitalul General Cai Ferate Brasov",
+      "source": "https://serviciipublice.gov.ro/institutii/2375",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2368",
+      "name": "Spitalul General Cai Ferate Drobeta Turnu Severin",
+      "source": "https://serviciipublice.gov.ro/institutii/2368",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2373",
+      "name": "Spitalul General Cai Ferate Galati",
+      "source": "https://serviciipublice.gov.ro/institutii/2373",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2662",
+      "name": "Spitalul General Cai Ferate Paşcani",
+      "source": "https://serviciipublice.gov.ro/institutii/2662",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2381",
+      "name": "Spitalul General Cai Ferate Ploiesti",
+      "source": "https://serviciipublice.gov.ro/institutii/2381",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2400",
+      "name": "Spitalul General Cai Ferate Sibiu",
+      "source": "https://serviciipublice.gov.ro/institutii/2400",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2383",
+      "name": "Spitalul General Cai Ferate Simeria",
+      "source": "https://serviciipublice.gov.ro/institutii/2383",
+      "reportedParent": "Subordonată Ministerul Transporturilor si Infrastructurii"
+    },
+    {
+      "id": "2717",
+      "name": "Spitalul Militar de Urgenta ,,dr. Alexandru Augustin\" Sibiu",
+      "source": "https://serviciipublice.gov.ro/institutii/2717",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2716",
+      "name": "Spitalul Militar de Urgenta ,,dr. Alexandru Gafencu\" Constanta",
+      "source": "https://serviciipublice.gov.ro/institutii/2716",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2388",
+      "name": "Spitalul Militar de Urgenta' Dr.Alexandru Popescu' Focsani",
+      "source": "https://serviciipublice.gov.ro/institutii/2388",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2380",
+      "name": "Spitalul Militar de Urgenta \"Dr. Aristide Serfioti\" Galați",
+      "source": "https://serviciipublice.gov.ro/institutii/2380",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2394",
+      "name": "Spitalul Militar de Urgenta \"Dr. Ion Jianu\"- Pitesti",
+      "source": "https://serviciipublice.gov.ro/institutii/2394",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2401",
+      "name": "Spitalul Militar de Urgenta \"Regina Maria\" Brasov",
+      "source": "https://serviciipublice.gov.ro/institutii/2401",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2789",
+      "name": "Spitalul Prof. Dr. Constantin Angelescu",
+      "source": "https://serviciipublice.gov.ro/institutii/2789",
+      "reportedParent": "Subordonată Ministerul Justitiei"
+    },
+    {
+      "id": "2374",
+      "name": "Spitalul Universitar de Urgență Militar Central ”Dr. Carol Davila”",
+      "source": "https://serviciipublice.gov.ro/institutii/2374",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2688",
+      "name": "Sport Club Miercurea Ciuc",
+      "source": "https://serviciipublice.gov.ro/institutii/2688",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2655",
+      "name": "Sport Club Municipal Bacău",
+      "source": "https://serviciipublice.gov.ro/institutii/2655",
+      "reportedParent": "Subordonată Agentia Nationala pentru Sport"
+    },
+    {
+      "id": "2652",
+      "name": "Sport Club Muscel Câmpulung",
+      "source": "https://serviciipublice.gov.ro/institutii/2652",
+      "reportedParent": "Subordonată Ministerul Tineretului si Sportului"
+    },
+    {
+      "id": "2541",
+      "name": "Statul Major al Apararii",
+      "source": "https://serviciipublice.gov.ro/institutii/2541",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2323",
+      "name": "Structurile asociative ale autoritatilor administratiei publice ( UNCJR, AMR, AOR, ACOR)",
+      "source": "https://serviciipublice.gov.ro/institutii/2323",
+      "reportedParent": null
+    },
+    {
+      "id": "2468",
+      "name": "Unitatea Executiva pentru Finantarea Invatamantului Superior, a Cercetarii, Dezvoltarii si Inovarii",
+      "source": "https://serviciipublice.gov.ro/institutii/2468",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2342",
+      "name": "Uniunea Națională a Barourilor din România",
+      "source": "https://serviciipublice.gov.ro/institutii/2342",
+      "reportedParent": null
+    },
+    {
+      "id": "2314",
+      "name": "Uniunea Nationala a Executorilor Judecatoresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2314",
+      "reportedParent": null
+    },
+    {
+      "id": "2455",
+      "name": "Universitatea „1 Decembrie 1918” din Alba Iulia",
+      "source": "https://serviciipublice.gov.ro/institutii/2455",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2456",
+      "name": "Universitatea „Alexandru Ioan Cuza” din Iasi",
+      "source": "https://serviciipublice.gov.ro/institutii/2456",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2458",
+      "name": "Universitatea Babes-Bolyai",
+      "source": "https://serviciipublice.gov.ro/institutii/2458",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2474",
+      "name": "Universitatea de Arhitectura si Urbanism „Ion Mincu” - Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2474",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2463",
+      "name": "Universitatea de Medicina, Farmacie, Stiinte si Tehnologie „George Emil Palade\" din Targu Mures",
+      "source": "https://serviciipublice.gov.ro/institutii/2463",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2419",
+      "name": "Universitatea de Medicina si Farmacie Grigore T. Popa din Iasi",
+      "source": "https://serviciipublice.gov.ro/institutii/2419",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2460",
+      "name": "Universitatea de Medicina si Farmacie „Iuliu Hatieganu” din Cluj-Napoca",
+      "source": "https://serviciipublice.gov.ro/institutii/2460",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2418",
+      "name": "Universitatea de Stiinte Agricole si Medicina Veterinara Cluj-Napoca",
+      "source": "https://serviciipublice.gov.ro/institutii/2418",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2478",
+      "name": "Universitatea de Stiinte Agronomice si Medicina Veterinara din Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2478",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2466",
+      "name": "Universitatea din Craiova",
+      "source": "https://serviciipublice.gov.ro/institutii/2466",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2420",
+      "name": "Universitatea din Petrosani",
+      "source": "https://serviciipublice.gov.ro/institutii/2420",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2457",
+      "name": "Universitatea „Dunarea de Jos” din Galati",
+      "source": "https://serviciipublice.gov.ro/institutii/2457",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2731",
+      "name": "Universitatea Națională de Apărare „Carol I”",
+      "source": "https://serviciipublice.gov.ro/institutii/2731",
+      "reportedParent": "Subordonată Ministerul Apararii Nationale"
+    },
+    {
+      "id": "2471",
+      "name": "Universitatea Nationala de Arta Teatrala si Cinematografica \"I. L. Caragiale\" Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2471",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2414",
+      "name": "Universitatea Nationala de Educatie Fizica si Sport Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2414",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2473",
+      "name": "Universitatea „Ovidius” din Constanta",
+      "source": "https://serviciipublice.gov.ro/institutii/2473",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2464",
+      "name": "Universitatea Petrol-Gaze din Ploiesti",
+      "source": "https://serviciipublice.gov.ro/institutii/2464",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2461",
+      "name": "Universitatea Politehnica din Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2461",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2472",
+      "name": "Universitatea Tehnica de Constructii Bucuresti",
+      "source": "https://serviciipublice.gov.ro/institutii/2472",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    },
+    {
+      "id": "2415",
+      "name": "Universitatea Transilvania din Brasov",
+      "source": "https://serviciipublice.gov.ro/institutii/2415",
+      "reportedParent": "Subordonată Ministerul Educatiei"
+    }
+  ]
+}

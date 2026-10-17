@@ -1,0 +1,42 @@
+[
+  {
+    "clientWidth": 1265,
+    "documentWidth": 1265,
+    "dpr": 1,
+    "fonts": "loaded",
+    "headerOverlap": false,
+    "height": 900,
+    "horizontalOverflow": false,
+    "width": 1280
+  },
+  {
+    "clientWidth": 753,
+    "documentWidth": 753,
+    "dpr": 1,
+    "fonts": "loaded",
+    "headerOverlap": false,
+    "height": 1024,
+    "horizontalOverflow": false,
+    "width": 768
+  },
+  {
+    "clientWidth": 375,
+    "documentWidth": 375,
+    "dpr": 1,
+    "fonts": "loaded",
+    "headerOverlap": false,
+    "height": 844,
+    "horizontalOverflow": false,
+    "width": 390
+  },
+  {
+    "clientWidth": 305,
+    "documentWidth": 305,
+    "dpr": 1,
+    "fonts": "loaded",
+    "headerOverlap": false,
+    "height": 720,
+    "horizontalOverflow": false,
+    "width": 320
+  }
+]

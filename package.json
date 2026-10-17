@@ -1,0 +1,19 @@
+{
+  "name": "starea-statului",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Observator civic al serviciilor digitale și instituțiilor centrale din România",
+  "license": "AGPL-3.0-only",
+  "repository": { "type": "git", "url": "https://github.com/capitanumihai/starea-statului.git" },
+  "engines": { "node": ">=22.13.0" },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "npm --prefix apps/web run build && node scripts/prerender.mjs && python -X utf8 scripts/package-source.py",
+    "start": "node apps/monitor/server.mjs",
+    "monitor:once": "node apps/monitor/server.mjs --once",
+    "catalog:import": "python -X utf8 scripts/import-adr.py",
+    "test": "node --test tests/*.test.mjs",
+    "test:sites": "npm --prefix apps/web run test:sites"
+  }
+}
