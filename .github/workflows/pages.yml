@@ -40,9 +40,7 @@ jobs:
       - name: Instalează dependențele
         run: npm --prefix apps/web ci
       - name: Verifică sursele
-        run: |
-          npm test
-          npm run test:sites
+        run: npm test
       - name: Restaurează istoricul public
         run: node scripts/pages-monitor.mjs restore
       - name: Colectează o rundă de probe
@@ -50,7 +48,9 @@ jobs:
       - name: Construiește site-ul
         run: npm run build
       - name: Verifică pachetul public
-        run: npm run test:pages-build
+        run: |
+          npm run test:sites
+          npm run test:pages-build
       - name: Păstrează istoricul public
         run: node scripts/pages-monitor.mjs publish
       - uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b

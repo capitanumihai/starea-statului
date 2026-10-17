@@ -78,3 +78,5 @@ Pentru oprirea colectării și publicării automate se dezactivează fluxul din 
 Configurarea Pages a fost creată. Cele 23 de teste de domeniu și compatibilitate Pages, cele 4 teste ale runtime-ului și cele 3 teste ale pachetului public au trecut local. Buildul pentru subdirector a trecut.
 
 În browserul local au fost verificate ruta directă SRI, schimbarea perioadei, încărcarea imaginilor și fundalului din subdirector și absența erorilor de consolă la lățimea de 1280 px. Publicarea și verificarea adresei externe sunt în curs.
+
+La 390 px au fost verificate căutarea SRI și lipsa derulării orizontale. Testele care verifică fișierele de publicare se execută după build, pentru a funcționa și într-un checkout curat.
