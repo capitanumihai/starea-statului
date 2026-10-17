@@ -55,7 +55,7 @@ Cereri de scriere nu sunt acceptate de API. Serverul se leagă implicit la 127.0
 
 Buildul adaugă HTML pentru pagina principală și pentru fiecare dintre cele 140 de înregistrări. Titlurile și descrierile sunt specifice instituției, iar HTML-ul include denumirea, descrierea și legătura oficială, fără procente demonstrative.
 
-PUBLIC_SITE_URL configurează originea HTTPS, adresele canonice și sitemap-ul. Până la configurarea domeniului, paginile au noindex și robots.txt interzice indexarea. Filtrele și parametrii de demonstrație nu sunt rute editoriale noi.
+PUBLIC_SITE_URL configurează adresa HTTPS publică, adresele canonice și sitemap-ul. Calea sa trebuie să corespundă VITE_BASE_PATH. Până la configurare, paginile au noindex și robots.txt interzice indexarea. Filtrele și parametrii de demonstrație nu sunt rute editoriale noi.
 
 ## Viteză și accesibilitate
 
@@ -67,6 +67,10 @@ Au fost verificate lățimi CSS de 1440, 1280, 768, 390 și 320 px. Fonturile su
 
 ## Publicare
 
-Runtime-ul static Product Design pentru Sites a fost păstrat. Serviciul complet are și un colector Node cu SQLite, care necesită o gazdă cu proces persistent și stocare persistentă. Publicarea doar a fișierelor statice nu asigură colectarea probelor.
+Runtime-ul static Product Design pentru Sites a fost păstrat. Varianta locală are un colector Node cu SQLite și API, care necesită un proces persistent.
+
+Varianta publică folosește GitHub Pages pentru interfață și GitHub Actions pentru colectarea periodică. Fișierul .github/workflows/pages.yml construiește și publică site-ul. Datele noi sunt păstrate pe ramura monitor-data, separat de main. Pagina citește instantanee JSON pentru trei perioade, iar browserul expiră stările după zece minute.
+
+Intervalele istorice consecutive cu aceeași stare sunt reunite. Calculele păstrează intersecțiile exacte și golurile nemăsurate. Programarea GitHub poate întârzia și nu este echivalentă cu un proces permanent. Structura, limitele și intervențiile sunt în docs/PAGES.md.
 
 Baza de observații rămâne locală. Arhiva surselor exclude datele colectate, node_modules, fișiere .env și materialele temporare de QA. Codul, catalogul, metodologia, imaginile consumate și licențele sunt incluse.

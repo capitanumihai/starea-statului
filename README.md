@@ -28,12 +28,16 @@ Pentru a opri verificările automate, setează MONITOR_ENABLED=false în mediul 
 
 ## Build și pornire
 
+Publicarea găzduită este configurată la [Starea Statului pe GitHub Pages](https://capitanumihai.github.io/starea-statului/). Fluxul și limitele sunt descrise în [docs/PAGES.md](docs/PAGES.md). Colectorul online începe cu măsurători noi în GitHub Actions și păstrează separat istoricul public pe ramura monitor-data.
+
     npm run build
     npm start
 
 Serverul Node livrează buildul și API-ul pe portul 4174. Nu expune implicit serverul în rețea. HOST=0.0.0.0 se configurează numai în mediul de găzduire ales.
 
-PUBLIC_SITE_URL trebuie să conțină originea HTTPS publică înainte de build, pentru adrese canonice, sitemap și activarea indexării. Până atunci, paginile de previzualizare au noindex și robots.txt interzice indexarea.
+PUBLIC_SITE_URL trebuie să conțină adresa HTTPS publică înainte de build, pentru adrese canonice, sitemap și activarea indexării. Calea trebuie să corespundă VITE_BASE_PATH și să aibă separator final. Până atunci, paginile de previzualizare au noindex și robots.txt interzice indexarea.
+
+VITE_DATA_SOURCE=pages activează instantaneele publice pentru găzduirea statică. Configurația implicită folosește API-ul Node local. Programarea online este la cinci minute, cu posibile întârzieri GitHub. Probele publicate expiră în interfață după zece minute.
 
 ## Date reale și demonstrație
 
@@ -68,4 +72,4 @@ Codul aplicației este oferit sub AGPL-3.0-only. Consultă LICENSE. Bibliotecile
 
 Pentru adăugarea unei instituții, propune numele, abrevierea, categoria de navigare și URL-ul oficial în packages/catalog/institutions.mjs. Nu publica date personale, credențiale sau stări fără probe. Vezi CONTRIBUTING.md.
 
-Depozitul public este [capitanumihai/starea-statului](https://github.com/capitanumihai/starea-statului), pe ramura main. Detaliile publicării sunt în [docs/GITHUB.md](docs/GITHUB.md). Aplicația rulează local, iar domeniul și găzduirea serviciului urmează să fie configurate.
+Depozitul public este [capitanumihai/starea-statului](https://github.com/capitanumihai/starea-statului), pe ramura main. Detaliile publicării surselor sunt în [docs/GITHUB.md](docs/GITHUB.md), iar configurația online este în [docs/PAGES.md](docs/PAGES.md). Varianta locală cu Node și SQLite rămâne disponibilă independent de Pages.

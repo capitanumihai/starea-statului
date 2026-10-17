@@ -12,3 +12,4 @@ docs/qa/*.webp
 apps/web/public/starea-statului-source.zip
 apps/web/public/starea-statului-source.sha256
 /public/assets/
+apps/web/public/monitor/

@@ -14,6 +14,7 @@
     "monitor:once": "node apps/monitor/server.mjs --once",
     "catalog:import": "python -X utf8 scripts/import-adr.py",
     "test": "node --test tests/*.test.mjs",
-    "test:sites": "npm --prefix apps/web run test:sites"
+    "test:sites": "npm --prefix apps/web run test:sites",
+    "test:pages-build": "node --test tests/pages-build.check.mjs"
   }
 }

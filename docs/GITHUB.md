@@ -41,4 +41,4 @@ Publicarea modificărilor autorizate, după verificare:
 
 ## Găzduire
 
-GitHub găzduiește sursele. Aplicația și colectorul rulează încă local. Pentru serviciul public sunt necesare domeniul, un proces Node permanent și persistența bazei SQLite. Un site static singur poate afișa interfața, dar măsurătorile reale au nevoie de API și colector.
+GitHub găzduiește sursele, iar Pages este configurat la https://capitanumihai.github.io/starea-statului/. Colectorul online rulează periodic în GitHub Actions, cu istoric nou pe ramura monitor-data. Configurația și limitele sunt în docs/PAGES.md. Varianta locală cu API Node și SQLite rămâne independentă.

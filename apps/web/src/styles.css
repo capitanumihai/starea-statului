@@ -63,3 +63,5 @@
 .uptime-number small{display:block;color:#a9becb;font-size:11px;letter-spacing:0;line-height:1.6;font-weight:500;margin-top:8px}.uptime-number.has-observation-note{margin-bottom:13px}
 
 .react-flow__node-institution{pointer-events:auto}
+
+.publication-notice{display:flex;align-items:flex-start;gap:10px;padding:12px 20px;border-bottom:1px solid var(--line);background:#142a35;color:#b1c8d7}.publication-notice>svg{flex-shrink:0;margin-top:2px;color:var(--blue)}.publication-notice p{margin:0;font-size:11px;line-height:1.75}.publication-notice strong{color:#d8e7ef;font-weight:600}

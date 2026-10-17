@@ -3,6 +3,7 @@ import { ReactFlow, ReactFlowProvider, Handle, Position, useReactFlow } from '@x
 import { PlusIcon, MinusIcon, CrosshairIcon, CaretLeftIcon, CaretRightIcon, ArrowsOutSimpleIcon } from '@phosphor-icons/react'
 import { institutions, categories, categoryById, institutionById, statusMeta, emptyReading } from './data'
 import { InstitutionIcon } from './icons'
+import { assetPath } from './deployment.mjs'
 import '@xyflow/react/dist/style.css'
 
 const images = new Set(['parliament', 'chamber', 'senate', 'mai'])
@@ -13,7 +14,7 @@ const InstitutionNode = memo(function InstitutionNode({ data }) {
     {[Position.Top, Position.Right, Position.Bottom, Position.Left].map((position) => <Handle key={`target-${position}`} id={`target-${position}`} type="target" position={position} isConnectable={false} />)}
     <button type="button" className="node-button nodrag nopan" onClick={(event) => { event.stopPropagation(); onSelect(item.id) }} aria-label={`${item.shortName}, ${reading ? statusMeta[reading.status].label : 'grup de navigare'}`} aria-pressed={selected}>
       <span className={`node-portrait ${reading ? reading.status : 'group-portrait'}`}>
-        {images.has(item.image) ? <img src={`/assets/${item.image}.webp`} alt="" draggable="false" width="150" height="150" /> : <InstitutionIcon kind={item.image} size={root ? 62 : 43} />}
+        {images.has(item.image) ? <img src={assetPath('assets/' + item.image + '.webp')} alt="" draggable="false" width="150" height="150" /> : <InstitutionIcon kind={item.image} size={root ? 62 : 43} />}
         {root && <span className="portrait-orbit" />}
       </span>
       <strong>{item.shortName}</strong>

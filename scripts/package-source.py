@@ -17,6 +17,9 @@ with zipfile.ZipFile(temporary, "w", zipfile.ZIP_DEFLATED, compresslevel=6, stri
         if str(relative_folder).replace("\\", "/").startswith("docs/qa"):
             directories[:] = []
             continue
+        if str(relative_folder).replace("\\", "/") == "apps/web/public/monitor":
+            directories[:] = []
+            continue
         if str(relative_folder).replace("\\", "/") == "public":
             directories[:] = []
             continue
